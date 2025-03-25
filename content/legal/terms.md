@@ -64,7 +64,7 @@ The Blog is hosted on GitHub Pages, a service provided by GitHub, Inc. (a Micros
 
 The domain **eikekarbe.com** is registered and managed through Namecheap, Inc. The domain registration and DNS services are governed by [Namecheap's Terms of Service](https://www.namecheap.com/legal/general/terms-service/).
 
-While we make reasonable efforts to ensure continuous availability of the Blog, we cannot guarantee uninterrupted access due to dependencies on these third-party service providers and potential devnotesnical issues beyond our control.
+While we make reasonable efforts to ensure continuous availability of the Blog, we cannot guarantee uninterrupted access due to dependencies on these third-party service providers and potential technical issues beyond our control.
 
 ## Governing Law
 

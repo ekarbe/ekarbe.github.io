@@ -4,4 +4,4 @@ description: "Software development insights, performance optimization, and codin
 type: "devnotes"
 ---
 
-This section documents my software development experiences, coding practices, and performance optimization devnotesniques.
+This section documents my software development experiences, coding practices, and performance optimization techniques.

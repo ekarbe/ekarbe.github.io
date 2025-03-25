@@ -13,7 +13,7 @@ This Privacy Policy describes how Eike Christian Karbe's personal blog ("the Blo
 
 The Blog does not intentionally collect, store, or process any personal data from visitors. Specifically:
 
-- We do not use cookies, tracking pixels, or similar devnotesnologies
+- We do not use cookies, tracking pixels, or similar technologies
 - We do not use any analytics services or tracking tools
 - We do not collect or store IP addresses
 - We do not use any external scripts, stylesheets, or resources that might collect data
@@ -29,7 +29,7 @@ The Blog is hosted on GitHub Pages, a service provided by GitHub, Inc. (a Micros
 - IP addresses (temporary)
 - Browser user agent information
 
-This information is used solely for the purpose of maintaining the devnotesnical functionality and security of the website and is not used for tracking or identifying individual visitors. The data collection practices of GitHub Pages are governed by [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+This information is used solely for the purpose of maintaining the technical functionality and security of the website and is not used for tracking or identifying individual visitors. The data collection practices of GitHub Pages are governed by [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 ## Domain Registration
 
@@ -37,7 +37,7 @@ The domain **eikekarbe.com** is registered through Namecheap, Inc., which provid
 
 - Domain registration information
 - DNS configuration
-- devnotesnical contact information for the domain owner
+- Technical contact information for the domain owner
 
 This information is used for domain management purposes and is subject to [Namecheap's Privacy Policy](https://www.namecheap.com/legal/general/privacy-policy/). We utilize Namecheap's WhoisGuard service to protect personal information from being publicly visible in WHOIS databases.
 

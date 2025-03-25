@@ -7,7 +7,7 @@ type: "legal"
 
 ## Cookie-Free Website
 
-**Cookie-Free Website**: This website does not use cookies or any similar tracking devnotesnologies. You can browse this site without any cookies being stored on your device.
+**Cookie-Free Website**: This website does not use cookies or any similar tracking technologies. You can browse this site without any cookies being stored on your device.
 
 ## What Are Cookies?
 
@@ -19,8 +19,8 @@ Our website is designed to respect your privacy. We have intentionally built thi
 
 - First-party cookies (set by our domain)
 - Third-party cookies (set by other domains)
-- Local storage, session storage, or other browser-based storage devnotesnologies
-- Tracking pixels, web beacons, or similar devnotesnologies
+- Local storage, session storage, or other browser-based storage technologies
+- Tracking pixels, web beacons, or similar technologies
 - External scripts or analytics tools that might set cookies
 
 ## Why We Don't Use Cookies
@@ -40,7 +40,7 @@ Since our website doesn't use cookies, you don't need to adjust your browser set
 
 Some content on the Blog, including articles and images, may be generated using artificial intelligence tools. This AI-generated content:
 
-- Does not involve the use of cookies or tracking devnotesnologies on our website
+- Does not involve the use of cookies or tracking technologies on our website
 - Is created independently of your browsing session and does not use your personal data
 - Will be clearly marked to indicate it was generated with AI assistance
 
