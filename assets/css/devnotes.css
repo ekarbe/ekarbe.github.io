@@ -1,0 +1,26 @@
+/* Use color variables instead of direct RGB codes */
+.devnotes-blog {
+  background-color: var(--devnotes-color);
+  color: white;
+}
+
+.article-card {
+  box-shadow: 0 4px 8px var(--devnotes-color);
+}
+
+.featured-article {
+  box-shadow: 0 6px 12px var(--devnotes-color);
+}
+
+.category {
+  color: var(--devnotes-color);
+}
+
+.secondary-article {
+  background-color: var(--devnotes-color-dark);
+  border-left: 4px solid var(--devnotes-color-lighter);
+}
+
+.pagination-arrow:hover {
+  background-color: var(--devnotes-color-lighter);
+}

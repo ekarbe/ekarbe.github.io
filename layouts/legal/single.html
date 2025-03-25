@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container">
+    <section class="page-title">
+        <h1>{{ .Title }}</h1>
+    </section>
+
+    <section class="legal-content">
+        {{ .Content }}
+
+        <p class="last-updated">Last updated: {{ .Params.lastUpdated }}</p>
+    </section>
+</div>
+{{ end }}

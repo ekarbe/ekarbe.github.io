@@ -1,0 +1,39 @@
+/* Legal pages specific styles */
+.legal-content {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  
+  .legal-content h2 {
+    margin: 1.5rem 0 1rem;
+    color: #333;
+  }
+  
+  .legal-content h2:first-child {
+    margin-top: 0;
+  }
+  
+  .legal-content p, .legal-content ul {
+    margin-bottom: 1rem;
+  }
+  
+  .legal-content ul {
+    padding-left: 2rem;
+  }
+  
+  .legal-content .cookie-free {
+    background-color: #e6f7ff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    border-left: 4px solid #0066cc;
+  }
+  
+  .legal-content .last-updated {
+    font-style: italic;
+    color: #666;
+    margin-top: 2rem;
+    text-align: right;
+  }

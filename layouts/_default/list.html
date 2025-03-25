@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="container">
+    <section class="page-title">
+        <h1>{{ .Title }}</h1>
+    </section>
+
+    <section class="article-grid">
+        {{ range .Pages }}
+        <article class="article-card">
+            <div class="article-image">
+            </div>
+            <div class="article-card-content">
+                <div class="category">{{ with .Params.categories }}{{ index . 0
+                    }}{{ else }}None{{ end }}</div>
+                <h3 class="article-title"><a href="{{ .RelPermalink }}">{{
+                        .Title }}</a></h3>
+                <div class="article-date">{{ .Date.Format "January 02, 2006"
+                    }}</div>
+            </div>
+        </article>
+        {{ end }}
+    </section>
+
+    {{ partial "pagination.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="container">
+    <section class="page-title">
+        <h1>{{ .Title }}</h1>
+    </section>
+
+    <!-- AI-specific layout with timeline style -->
+    <section class="ai-timeline">
+        {{ $paginator := .Paginate .Pages 6 }}
+        {{ range $index, $page := $paginator.Pages }}
+        <article class="ai-timeline-item{{ if eq (mod $index 2) 0 }} ai-left{{ else }} ai-right{{ end }}">
+            <div class="ai-timeline-content">
+                <div class="category">{{ with .Params.categories }}{{ index . 0 }}{{ else }}AI{{ end }}</div>
+                <h3 class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p class="ai-summary">{{ .Summary | truncate 150 }}</p>
+                <div class="article-date">{{ .Date.Format "January 02, 2006" }}</div>
+            </div>
+        </article>
+        {{ end }}
+    </section>
+
+    {{ partial "pagination.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,89 @@
+{{ define "main" }}
+<div class="container">
+    <section class="hero" aria-labelledby="hero-title">
+        <div class="container">
+            <h1 id="hero-title">{{ .Title }}</h1>
+            <p>{{ .Params.subtitle }}</p>
+            <a href="/about/" class="btn">Learn more</a>
+        </div>
+    </section>
+
+    <section class="blog-section devnotes-blog">
+        <div class="container">
+            <h2>DevNotes</h2>
+            <p>{{ .Params.devnotesDescription }}</p>
+            <a href="/devnotes/" class="btn">Learn more</a>
+        </div>
+    </section>
+    
+    <section class="blog-grid">
+        <div class="blog-col endurance-blog">
+            <h2>Endurance Zone</h2>
+            <p>{{ .Params.enduranceDescription }}</p>
+            <a href="/endurance/" class="btn">Learn more</a>
+        </div>
+        <div class="blog-col ai-blog">
+            <h2>AI Blog</h2>
+            <p>{{ .Params.aiDescription }}</p>
+            <a href="/ai/" class="btn">Learn more</a>
+        </div>
+    </section>
+
+    <section class="blog-carousel">
+        <div class="carousel-container">
+            <!-- Use site.RegularPages directly to get all posts -->
+            {{ $latestPosts := where site.RegularPages "Type" "in" (slice "devnotes"
+            "endurance" "ai") | first 6 }}
+
+            <!-- Check if we have enough posts -->
+            {{ if ge (len $latestPosts) 1 }}
+            <!-- Add the last post to beginning (for infinite scroll) -->
+            {{ $lastPost := index $latestPosts (sub (len $latestPosts) 1) }}
+            <div class="carousel-slide post-{{ $lastPost.Section }}">
+                <h2>{{ $lastPost.Title }}</h2>
+                <p>{{ $lastPost.Summary | truncate 100 }}</p>
+                <a href="{{ $lastPost.RelPermalink }}" class="btn">Learn
+                    more</a>
+            </div>
+
+            <!-- Display the posts -->
+            {{ range $index, $post := $latestPosts }}
+            <div class="carousel-slide post-{{ $post.Section }}">
+                <h2>{{ $post.Title }}</h2>
+                <p>{{ $post.Summary | truncate 100 }}</p>
+                <a href="{{ $post.RelPermalink }}" class="btn">Learn more</a>
+            </div>
+            {{ end }}
+
+            <!-- Add first post to end (for infinite scroll) -->
+            {{ $firstPost := index $latestPosts 0 }}
+            <div class="carousel-slide post-{{ $firstPost.Section }}">
+                <h2>{{ $firstPost.Title }}</h2>
+                <p>{{ $firstPost.Summary | truncate 100 }}</p>
+                <a href="{{ $firstPost.RelPermalink }}" class="btn">Learn
+                    more</a>
+            </div>
+            {{ else }}
+            <!-- Fallback if no posts exist yet -->
+            <div class="carousel-slide post-devnotes">
+                <h2>Welcome to my blog</h2>
+                <p>No posts yet. Check back soon for content!</p>
+                <a href="/" class="btn">Home</a>
+            </div>
+            {{ end }}
+        </div>
+    </section>
+
+    <div class="carousel-dots">
+        {{ range $index, $_ := (slice 1 2 3 4 5 6) }}
+        <span class="dot{{ if eq $index 0 }} active{{ end }}"></span>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+
+{{ define "scripts" }}
+{{ $carouselJS := resources.Get "js/carousel.js" | resources.Minify |
+resources.Fingerprint }}
+<script src="{{ $carouselJS.RelPermalink }}"></script>
+{{ end }}

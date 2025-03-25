@@ -1,0 +1,390 @@
+:root {
+  /* Base colors */
+  --dark-text: #333;
+  --light-text: #666;
+  --border-color: #ddd;
+  
+  /* Primary color & shades */
+  --primary-color: #0066cc;
+  --primary-color-light: #4d94ff;
+  --primary-color-lighter: #b3d1ff;
+  --primary-color-dark: #004c99;
+  --primary-color-darker: #003366;
+  
+  /* devnotes color (vibrant royal blue) & shades */
+  --devnotes-color: #2962FF;
+  --devnotes-color-light: #5c8cff;
+  --devnotes-color-lighter: #adc6ff;
+  --devnotes-color-dark: #0039cb;
+  --devnotes-color-darker: #001a6a;
+  
+  /* endurance color (fresh green) & shades */
+  --endurance-color: #00C853;
+  --endurance-color-light: #5efc82;
+  --endurance-color-lighter: #b0ffb9;
+  --endurance-color-dark: #009624;
+  --endurance-color-darker: #005514;
+  
+  /* AI color (rich purple) & shades */
+  --ai-color: #651FFF;
+  --ai-color-light: #a255ff;
+  --ai-color-lighter: #d4afff;
+  --ai-color-dark: #4615b2;
+  --ai-color-darker: #290b5a;
+  
+  /* Other variables */
+  --light-bg: #f5f5f5;
+  --dark-bg: #333333;
+}
+
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Fallback for browsers that don't support custom properties */
+  min-height: 100dvh; /* Dynamic viewport height - better for mobile browsers */
+  background-color: white;
+  color: var(--dark-text);
+  line-height: 1.6;
+  margin: 0;
+}
+
+body.devnotes nav a.active {
+  color: var(--devnotes-color);
+}
+
+body.devnotes nav a.active::after {
+  background-color: var(--devnotes-color);
+}
+
+body.endurance nav a.active {
+  color: var(--endurance-color);
+}
+
+body.endurance nav a.active::after {
+  background-color: var(--endurance-color);
+}
+
+body.ai nav a.active {
+  color: var(--ai-color);
+}
+
+body.ai nav a.active::after {
+  background-color: var(--ai-color);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Header styles */
+header {
+  background-color: white;
+  padding: 1rem 0;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+nav a {
+  font-weight: bold;
+  color: var(--dark-text);
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: var(--primary-color);
+}
+
+nav a.active {
+  color: var(--primary-color);
+  position: relative;
+}
+
+nav a.active::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--primary-color);
+}
+
+/* Main content styles */
+main {
+  flex: 1 0 auto; /* This makes the main content area grow and fill available space */
+  padding: 2rem 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Page title */
+.page-title {
+  text-align: center;
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+}
+
+.page-title h1 {
+  font-size: 2.5rem;
+  color: var(--dark-text);
+}
+
+/* Footer styles */
+footer {
+  flex-shrink: 0; /* Prevent footer from shrinking */
+  background-color: #f0f0f0;
+  padding: 2rem 0;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  max-width: 800px;
+  margin: 0 auto 2rem;
+}
+
+.footer-col h3 {
+  margin-bottom: 1rem;
+}
+
+.footer-col ul {
+  list-style: none;
+}
+
+.footer-col ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-col ul li a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+.footer-bottom {
+  border-top: 1px solid var(--border-color);
+  padding-top: 1rem;
+  font-size: 0.8rem;
+  color: var(--light-text);
+  text-align: center;
+}
+
+/* Search functionality */
+.search-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-20px);
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 60px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  z-index: 999;
+}
+
+header.expanded .search-container {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.search-bar {
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  padding-left: 3rem;
+  border: none;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  outline: none;
+}
+
+.search-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #888;
+  font-size: 1.2rem;
+}
+
+/* Quick links */
+.quick-links {
+  margin-top: 1.5rem;
+}
+
+.quick-links h3 {
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: #666;
+}
+
+.links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.link-item {
+  padding: 0.8rem 1rem;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  transition: background-color 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.link-item:hover {
+  background-color: #e8e8e8;
+}
+
+body.devnotes .link-item span {
+  color: var(--devnotes-color);
+}
+
+body.endurance .link-item span {
+  color: var(--endurance-color);
+}
+
+body.ai .link-item span {
+  color: var(--ai-color);
+}
+
+/* Content blur effect */
+main.blur,
+footer.blur {
+  filter: blur(5px);
+  pointer-events: none;
+}
+
+/* Search results styling */
+.search-results {
+  display: none;
+  max-height: 60vh;
+  overflow-y: auto;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.search-results.active {
+  display: block;
+}
+
+.search-result-item {
+  display: block;
+  padding: 1rem;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background-color 0.2s;
+  text-decoration: none;
+  color: var(--dark-text);
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover {
+  background-color: #f9f9f9;
+}
+
+.search-result-category {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.search-result-category.devnotes {
+  color: var(--devnotes-color);
+}
+
+.search-result-category.endurance {
+  color: var(--endurance-color);
+}
+
+.search-result-category.ai {
+  color: var(--ai-color);
+}
+
+.search-result-title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.search-result-summary {
+  font-size: 0.85rem;
+  color: var(--light-text);
+  margin-bottom: 0.25rem;
+}
+
+.search-result-date {
+  font-size: 0.7rem;
+  color: #999;
+}
+
+.no-results {
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--light-text);
+}
+
+/* Show quick links when no active search */
+.search-results.active + .quick-links {
+  display: none;
+}
+
+/* Highlight matches */
+mark {
+  background-color: rgba(255, 255, 0, 0.3);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
