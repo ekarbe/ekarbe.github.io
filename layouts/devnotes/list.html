@@ -4,6 +4,10 @@
         <h1>{{ .Title }}</h1>
     </section>
 
+    <section class="section-intro">
+        {{ .Content }}
+    </section>
+
     <!-- devnotes-specific layout with featured article -->
     <section class="featured-article">
         {{ range first 1 (where .Pages "Params.featured" true) }}

@@ -4,20 +4,25 @@
 }
 
 .endurance-card {
-  box-shadow: 0 4px 8px var(--endurance-color);
+  background-color: var(--endurance-color-lighter);
+  border-left: 4px solid var(--endurance-color);
+}
+
+.endurance-featured {
+  margin-bottom: 2rem;
 }
 
 .endurance-feature-card {
-  box-shadow: 0 6px 12px var(--endurance-color);
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.endurance-feature-content {
+  padding: 2rem;
 }
 
 .category {
   color: var(--endurance-color);
-}
-
-.endurance-card {
-  background-color: white;
-  border-left: 4px solid var(--endurance-color);
 }
 
 .pagination-arrow:hover {
@@ -40,14 +45,12 @@
 .endurance-card {
   display: flex;
   flex-direction: column;
-  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 8px var(--endurance-color);
 }
 
 .endurance-card-image {
   height: 200px;
-  background-color: var(--endurance-color-lighter);
+  background-color: var(--endurance-color-light);
 }
 
 .endurance-card-content {

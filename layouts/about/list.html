@@ -40,8 +40,6 @@
         <!-- About page search section -->
         <section class="about-search-section">
             <h2>Search My Content</h2>
-            <p>{{ .Params.contactText }}</p>
-            
             <div class="about-search-container">
                 <div class="about-search-bar">
                     <span class="search-icon">🔍</span>
@@ -52,6 +50,11 @@
                 </div>
             </div>
         </section>
+
+        <section>
+            <p>{{ .Params.contactText }} <a href="/contact/">Contact me here</a>.</p>
+        </section>
+
     </section>
 </div>
 {{ end }}

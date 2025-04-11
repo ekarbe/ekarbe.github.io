@@ -5,11 +5,17 @@
 }
 
 .article-card {
-  box-shadow: 0 4px 8px var(--devnotes-color);
+  background-color: var(--devnotes-color-lighter);
+  border-left: 4px solid var(--devnotes-color);
 }
 
 .featured-article {
-  box-shadow: 0 6px 12px var(--devnotes-color);
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.featured-content {
+  padding: 2rem;
 }
 
 .category {

@@ -47,10 +47,9 @@
 
 .ai-timeline-content {
   padding: 1.5rem;
-  background-color: white;
+  background-color: var(--ai-color-lighter);
   position: relative;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(101, 31, 255, 0.15);
+  border-left: 4px solid var(--ai-color);
 }
 
 .ai-left .ai-timeline-content::after {
@@ -60,9 +59,8 @@
   height: 20px;
   right: -10px;
   top: 20px;
-  background-color: white;
+  background-color: var(--ai-color-lighter);
   transform: rotate(45deg);
-  box-shadow: 4px -4px 8px rgba(101, 31, 255, 0.05);
 }
 
 .ai-right .ai-timeline-content::after {
@@ -72,9 +70,8 @@
   height: 20px;
   left: -10px;
   top: 20px;
-  background-color: white;
+  background-color: var(--ai-color-lighter);
   transform: rotate(45deg);
-  box-shadow: -4px 4px 8px rgba(101, 31, 255, 0.05);
 }
 
 .ai-timeline-item::after {
@@ -122,6 +119,5 @@
   
   .ai-left .ai-timeline-content::after, .ai-right .ai-timeline-content::after {
     left: -10px;
-    box-shadow: -4px 4px 8px rgba(101, 31, 255, 0.05);
   }
 }

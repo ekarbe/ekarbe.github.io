@@ -59,17 +59,17 @@
 }
 
 .devnotes-card {
-  background-color: rgba(41, 98, 255, 0.15);
+  background-color: var(--devnotes-color-lighter);
   border-left: 4px solid var(--devnotes-color);
 }
 
 .endurance-card {
-  background-color: rgba(0, 200, 83, 0.15);
+  background-color: var(--endurance-color-lighter);
   border-left: 4px solid var(--endurance-color);
 }
 
 .ai-card {
-  background-color: rgba(101, 31, 255, 0.15);
+  background-color: var(--ai-color-lighter);
   border-left: 4px solid var(--ai-color);
 }
 
@@ -141,7 +141,7 @@
   padding: 0;
   border-radius: 8px;
   background-color: white;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border: 1px solid var(--border-color);
 }
 
 .about-search-results.active {

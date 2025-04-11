@@ -1,27 +1,29 @@
 ---
 title: "About Me"
-subtitle: "Software engineer, endurance enthusiast, and AI researcher sharing insights and experiences through practical guides and in-depth analysis."
+subtitle: "Hey there! I'm a software engineer with a serious endurance sports habit and a healthy obsession with AI. Here's a bit more about what makes me tick."
 profileImage: "/api/placeholder/200/200"
 profileImageAlt: "Eike Christian Karbe"
 expertise:
   - title: "Development Notes"
-    description: "Full-stack development, cloud architecture, and systems design with a focus on scalable solutions."
+    description: "My coding playground where I document solutions to tricky problems and share what I've learned building stuff that works."
     icon: "💻"
     class: "devnotes-card"
   - title: "Endurance Zone"
-    description: "Evidence-based training methodologies and nutrition strategies for optimal health and performance."
+    description: "Where I geek out about training science, nutrition hacks, and finding that perfect balance between pushing limits and not breaking yourself."
     icon: "💪"
     class: "endurance-card"
   - title: "AI Research"
-    description: "Practical applications of machine learning and AI technologies for solving real-world problems."
+    description: "My experiments with AI tools and technologies that actually solve real-world problems—minus the hype and buzzwords."
     icon: "🧠"
     class: "ai-card"
-professional: "With experience ranging from startups to enterprise organizations, I've developed expertise in software architecture, cloud solutions, and leading development teams. My technical background includes proficiency in multiple programming languages and frameworks, with a particular focus on creating robust, scalable systems."
-endurance: "My approach to endurance combines scientific research with practical application. Over the years, I've explored various training methodologies and nutritional strategies, documenting my findings and sharing evidence-based recommendations through my endurance blog."
-ai: "I'm fascinated by the potential of artificial intelligence to transform how we solve complex problems. My blog explores practical applications of AI technologies, ranging from machine learning algorithms to neural networks, with a focus on making these concepts accessible to both technical and non-technical audiences."
-contactText: "I'm always open to discussing new projects, ideas, or opportunities to collaborate."
+professional: "I've bounced between startups and bigger companies, picking up skills and battle scars along the way. My technical toolkit includes a bunch of programming languages and frameworks, but what I really care about is building systems that don't fall apart when things get busy."
+endurance: "My approach to endurance sports is pretty simple: understand the science, test it on myself, and share what actually works. I'm not an elite athlete by any stretch, but I've logged enough miles to know what makes a difference versus what's just marketing noise."
+ai: "What fascinates me about AI isn't the fancy tech—it's how these tools can solve real problems when applied thoughtfully. I try to cut through the hype and focus on practical applications that make life better or work easier."
+contactText: "Got a question, project idea, or just want to chat about any of this stuff? I'm all ears! Drop me a line anytime."
 ---
 
-I'm Eike Christian Karbe, a passionate software engineer with over a decade of experience building innovative solutions across various domains. My journey in technology has been driven by curiosity and a desire to create tools that make a meaningful impact.
+I'm Eike, a developer who spends way too much time thinking about code architecture, training zones, and how AI might help with both. My day job involves solving technical puzzles, but my passion projects span across all three areas of this blog.
 
-Beyond my professional work, I'm dedicated to maintaining a balanced lifestyle through endurance and continuously expanding my knowledge of emerging technologies, particularly in the field of artificial intelligence.
+When I'm not in front of a screen, you'll probably find me on a trail or a bike, testing training theories on myself (sometimes successfully, sometimes... less so). I believe in finding balance—between technical depth and practical solutions, between pushing hard and recovering well, between embracing new tech and maintaining a healthy skepticism.
+
+This blog is my way of documenting things I find interesting or useful, without the corporate polish or marketing fluff. If any of it helps you out or sparks a conversation, that's a bonus!

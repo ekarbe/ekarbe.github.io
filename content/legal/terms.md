@@ -2,7 +2,9 @@
 title: "Terms of Use"
 description: "Terms of Use for Eike Christian Karbe's personal blog."
 lastUpdated: "March 24, 2025"
+date: 2025-03-24
 type: "legal"
+categories: ["legal"]
 ---
 
 ## Acceptance of Terms

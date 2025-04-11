@@ -39,6 +39,9 @@
     {{ $componentsCSS := resources.Get "css/components.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $componentsCSS.RelPermalink }}">
     
+    {{ $contentCSS := resources.Get "css/content.css" | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $contentCSS.RelPermalink }}">    
+
     {{ if .IsHome }}
     {{ $homeCSS := resources.Get "css/home.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $homeCSS.RelPermalink }}">
@@ -67,5 +70,10 @@
     {{ if eq .RelPermalink "/about/" }}
     {{ $aboutCSS := resources.Get "css/about.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $aboutCSS.RelPermalink }}">
+    {{ end }}
+
+    {{ if eq .RelPermalink "/contact/" }}
+    {{ $contactCSS := resources.Get "css/contact.css" | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $contactCSS.RelPermalink }}">
     {{ end }}
 </head>

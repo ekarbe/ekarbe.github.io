@@ -4,6 +4,10 @@
         <h1>{{ .Title }}</h1>
     </section>
 
+    <section class="section-intro">
+        {{ .Content }}
+    </section>
+
     <!-- AI-specific layout with timeline style -->
     <section class="ai-timeline">
         {{ $paginator := .Paginate .Pages 6 }}

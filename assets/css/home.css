@@ -89,19 +89,46 @@
   margin-bottom: 1rem;
 }
 
+.carousel-slide .card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+  padding: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.carousel-slide .card-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Optional: Add a subtle visual indicator */
+.carousel-slide .card-link::after {
+  content: '';
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid currentColor;
+  border-right: 2px solid currentColor;
+  transform: rotate(45deg);
+  opacity: 0.7;
+}
+
 /* Carousel post styles based on section */
 .post-devnotes {
-  background-color: rgba(41, 98, 255, 0.15);
+  background-color: var(--devnotes-color-lighter);
   border-left: 4px solid var(--devnotes-color);
 }
 
 .post-endurance {
-  background-color: rgba(0, 200, 83, 0.15);
+  background-color: var(--endurance-color-lighter);
   border-left: 4px solid var(--endurance-color);
 }
 
 .post-ai {
-  background-color: rgba(101, 31, 255, 0.15);
+  background-color: var(--ai-color-lighter);
   border-left: 4px solid var(--ai-color);
 }
 

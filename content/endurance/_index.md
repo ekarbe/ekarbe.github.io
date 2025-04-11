@@ -4,4 +4,4 @@ description: "Running and cycling insights, training strategies, and endurance s
 type: "endurance"
 ---
 
-This section covers endurance sports with a focus on running and cycling, including training methodologies, performance tips, and personal experiences.
+As a runner and cyclist, I am not only enthusiastic about the sports themselves, but also the science behind them. Here I try to pass on my knowledge as practical tips and perhaps incorporate my nerd-ness. I love digging into the data, testing different approaches, and figuring out what actually works versus what's just marketing hype. Whether you're looking to improve your race times or just enjoy your endurance activities more, I hope you'll find something useful here.

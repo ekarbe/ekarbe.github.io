@@ -5,6 +5,20 @@
     </section>
 
     <section class="legal-content">
+        {{ if eq .RelPermalink "/legal/privacy/" }}
+        <div class="legal-intro">
+            <p>Hey there! This is my privacy policy. The short version? I don't collect your data. At all. But here's the detailed explanation for those who want the specifics.</p>
+        </div>
+        {{ else if eq .RelPermalink "/legal/cookies/" }}
+        <div class="legal-intro">
+            <p>Quick summary: This site doesn't use cookies. None. Zero. That's why you don't see those annoying cookie banners here. But if you want the full details, read on.</p>
+        </div>
+        {{ else if eq .RelPermalink "/legal/terms/" }}
+        <div class="legal-intro">
+            <p>Here are the ground rules for using this site. I've tried to keep them simple and fair, but legal speak is... well, legal speak. Thanks for taking the time to read them!</p>
+        </div>
+        {{ end }}
+        
         {{ .Content }}
 
         <p class="last-updated">Last updated: {{ .Params.lastUpdated }}</p>
