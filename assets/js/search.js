@@ -13,24 +13,20 @@ document.addEventListener('DOMContentLoaded', function () {
   let searchData = [];
 
   // Load the search index with better error handling
-  console.log('Attempting to load search index from /index.json');
   fetch('/index.json')
     .then(response => {
-      console.log('Search index fetch response:', response.status, response.statusText);
       if (!response.ok) {
         throw new Error(`Failed to load search index: ${response.status} ${response.statusText}`);
       }
       return response.json();
     })
     .then(data => {
-      console.log('Search index data received:', data);
       if (!data || !Array.isArray(data) || data.length === 0) {
         console.warn('Search index appears to be empty or invalid');
         throw new Error('Search index is empty or invalid');
       }
       searchData = data;
-      console.log('Search index loaded successfully:', searchData.length, 'items');
-      
+
       // If search inputs are focused, perform an initial empty search to show the data is ready
       if (document.activeElement === searchInput && searchInput.value) {
         performSearch(searchInput.value, searchResults);
@@ -58,8 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Simple search function with added debugging
   function performSearch(query, resultsContainer) {
-    console.log('Performing search for:', query);
-    
+
     // Clear results if query is empty
     if (query.trim() === '') {
       resultsContainer.innerHTML = '';
@@ -128,8 +123,6 @@ document.addEventListener('DOMContentLoaded', function () {
         return { item, score };
       })
       .sort((a, b) => b.score - a.score); // Sort by score (descending)
-
-    console.log(`Found ${results.length} results for query: "${query}"`);
 
     // Clear previous results
     resultsContainer.innerHTML = '';
@@ -218,7 +211,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (aboutSearchResults) aboutSearchResults.classList.remove('active');
     }
   });
-  
+
   // Special handling for about page search focusing
   // This allows users to click on the about page search without expanding the header search
   if (aboutSearchInput) {
