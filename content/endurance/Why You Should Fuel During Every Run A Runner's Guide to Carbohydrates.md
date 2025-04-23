@@ -1,8 +1,8 @@
 ---
 title: "Why You Should Fuel During Every Run: A Runner's Guide to Carbohydrates"
 categories: ["Running", "Nutrition"]
-draft: true
-date: 2025-03-25
+draft: false
+date: 2025-04-20
 tags: ["carbohydrates", "fueling", "training", "recovery", "gels"]
 description: "Discover why fueling during every run can boost your performance and recovery, and how to do it right."
 meta: "Learn the science behind carbohydrate intake for runners, how to optimize your fueling strategy for different training intensities, and why even easy runs might benefit from a little extra energy."
@@ -25,7 +25,7 @@ Your carb needs shift depending on how much you’re pounding the pavement and h
 
 #### Training Volume: The More You Run, The More You Munch
 
-For moderate training, shoot for 7-8 grams of carbs per kg of body weight daily. On hardcore days, bump it to 8-12 grams. For a 75kg runner like me (okay, fine, I’m 79kg, but we’ll get to that), that’s 525-900 grams a day. A plate of Spaghetti Napoli clocks in at about 80g of carbs. Sure, I *could* scarf down five plates per meal, but my stomach would riot, and I’d need stretchy pants. Point is, you’ve gotta sneak those carbs in whenever you can.
+For moderate training, shoot for 7-8 grams of carbs per kg of body weight daily. On hardcore days, bump it to 8-12 grams. For a 75kg runner, that’s 525-900 grams a day. A plate of Spaghetti Napoli clocks in at about 80g of carbs. Sure, I *could* scarf down five plates per meal, but my stomach would riot, and I’d need stretchy pants. Point is, you’ve gotta sneak those carbs in whenever you can.
 
 #### Training Intensity: Easy Peasy vs. Full Beast Mode
 
@@ -71,5 +71,7 @@ For a 79kg runner (yep, that’s me):
 - **Long runs:** 12g/kg → 948g → 94.8g in gel
 
 My lazy math? Daily carbs (in grams) × 10% = gel carbs. So, on a moderate day: 553g × 10% = 55.3g. Boom.
+
+**Just to be clear, this 10% rule is my personal hack, not standard sports science.** My main goal here isn't just fueling the run itself (like the typical 30-60g/hour advice), but rather using the run as another opportunity to chip away at those massive *daily* carb targets I need for recovery. This approach helps me scale the gel amount based on my overall daily needs, and conveniently, even on my highest carb days (like the 12g/kg example needing 94.8g), it keeps the gel amount under that 100g mark, which feels like a practical limit for me to carry and consume during a single run.
 
 Wanna join the gel party? Check out my [homemade gels post](/endurance/diy-energy-gels-save-money-and-customize-your-marathon-fuel/) or play with my [gel calculator](/gel-calculator) to whip up your own.
