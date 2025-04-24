@@ -13,7 +13,7 @@
         <section class="endurance-featured">
             {{ range first 1 (where .Pages "Params.featured" true) }}
             <article class="endurance-feature-card">
-                <div class="endurance-feature-image"></div>
+                <div class="endurance-feature-image"><img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}"></div>
                 <div class="endurance-feature-content">
                     <div class="category">{{ with .Params.categories }}{{ index
                         . 0 }}{{ else }}endurance{{ end }}</div>
@@ -27,7 +27,7 @@
             {{ else }}
             {{ range first 1 .Pages }}
             <article class="endurance-feature-card">
-                <div class="endurance-feature-image"></div>
+                <div class="endurance-feature-image"><img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}"></div>
                 <div class="endurance-feature-content">
                     <div class="category">{{ with .Params.categories }}{{ index
                         . 0 }}{{ else }}endurance{{ end }}</div>
@@ -46,7 +46,7 @@
             {{ $paginator := .Paginate (after 1 .Pages) 6 }}
             {{ range $paginator.Pages }}
             <article class="endurance-card">
-                <div class="endurance-card-image"></div>
+                <div class="endurance-card-image"><img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}"></div>
                 <div class="endurance-card-content">
                     <div class="category">{{ with .Params.categories }}{{ index
                         . 0 }}{{ else }}endurance{{ end }}</div>

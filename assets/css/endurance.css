@@ -51,7 +51,17 @@
 .endurance-card-image {
   height: 200px;
   background-color: var(--endurance-color-light);
+  overflow: hidden;
+  position: relative;
 }
+
+.endurance-feature-image {
+  height: 300px;
+  overflow: hidden;
+  background-color: var(--endurance-color-light);
+  position: relative;
+}
+
 
 .endurance-card-content {
   padding: 1.5rem;
@@ -63,6 +73,15 @@
 .endurance-excerpt {
   margin: 1rem 0;
   flex: 1;
+}
+
+.endurance-card-image img,
+.endurance-feature-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 @media (max-width: 768px) {

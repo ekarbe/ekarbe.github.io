@@ -8,6 +8,7 @@
         {{ range .Pages }}
         <article class="article-card">
             <div class="article-image">
+                <img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}">
             </div>
             <div class="article-card-content">
                 <div class="category">{{ with .Params.categories }}{{ index . 0

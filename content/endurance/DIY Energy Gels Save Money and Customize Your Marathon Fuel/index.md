@@ -7,6 +7,8 @@ tags: ["marathon", "energy gels", "DIY", "training tips", "cost-saving"]
 description: "Learn how to make your own energy gels for marathon training and save up to 97% compared to store-bought options."
 meta: "Discover a simple recipe for homemade energy gels that are cheaper, customizable, and perfect for marathon runners."
 summary: "This post explains why energy gels are essential for marathon training, the high cost of commercial gels, and provides a step-by-step guide to making your own gels using maltodextrin and fructose. Includes a cost comparison and a link to a gel calculator app."
+headerimage: "/endurance/diy-energy-gels-save-money-and-customize-your-marathon-fuel/DIY_GELS_1.JPEG"
+headerimagealt: "Image of scale, powder, hydra flasks, and reusable squeeze pouches"
 ---
 
 Energy gels are a massive part of marathon running—not just on race day, but during training too. If you're piling on the miles, you should even be using them on your easy runs. Want the details? Check out [this post](/endurance/why-you-should-fuel-during-every-run-a-runners-guide-to-carbohydrates/) I wrote about it.

@@ -7,6 +7,8 @@ tags: ["Garmin", "Garmin Connect", "Active Intelligence", "AI", "LLM", "Running"
 description: "Garmin's new AI feature 'Active Intelligence' feels underwhelming. Let's explore why it's basic and how you can *actually* get useful insights from your Garmin data using CSV exports and LLMs."
 meta: "Critique of Garmin's Active Intelligence AI and a guide on using your exported Garmin CSV data with LLMs for better running analysis and custom prompts."
 summary: "Garmin's paid 'Active Intelligence' often states the obvious. This post rants about why it likely exists, explains its limitations (LLM prompts, caching), and shows you how to export your Garmin data and use LLMs like Google Gemini for *truly* personalized and insightful running analysis with example prompts."
+headerimage: "/endurance/garmins-active-intelligence-is-kinda-dumb--lets-do-it-better-with-our-own-data/PROMPT_3.png"
+headerimagealt: "Image of graph with average cadence to average ground contact time"
 ---
 
 ## Garmin's "Premium" AI is... Well, Not That Intelligent

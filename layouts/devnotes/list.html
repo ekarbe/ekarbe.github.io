@@ -11,7 +11,7 @@
     <!-- devnotes-specific layout with featured article -->
     <section class="featured-article">
         {{ range first 1 (where .Pages "Params.featured" true) }}
-        <div class="featured-image"></div>
+        <div class="featured-image"><img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}"></div>
         <div class="featured-content">
             <div class="category">{{ with .Params.categories }}{{ index . 0 }}{{ else }}DevNotes{{ end }}</div>
             <h2 class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
@@ -20,7 +20,7 @@
         </div>
         {{ else }}
             {{ range first 1 .Pages }}
-            <div class="featured-image"></div>
+            <div class="featured-image"><img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}"></div>
         <div class="featured-content">
             <div class="category">{{ with .Params.categories }}{{ index . 0 }}{{ else }}DevNotes{{ end }}</div>
             <h2 class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
@@ -35,7 +35,7 @@
         {{ $paginator := .Paginate (after 1 .Pages) 6 }}
         {{ range first 2 $paginator.Pages }}
         <article class="article-card">
-            <div class="article-image"></div>
+            <div class="article-image"><img src="{{ .Params.HeaderImage }}" alt="{{ .Params.HeaderImageAlt}}"></div>
             <div class="article-card-content">
                 <div class="category">{{ with .Params.categories }}{{ index . 0 }}{{ else }}DevNotes{{ end }}</div>
                 <h3 class="article-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
