@@ -7,7 +7,7 @@ tags: ["marathon", "energy gels", "DIY", "training tips", "cost-saving"]
 description: "Learn how to make your own energy gels for marathon training and save up to 97% compared to store-bought options."
 meta: "Discover a simple recipe for homemade energy gels that are cheaper, customizable, and perfect for marathon runners."
 summary: "This post explains why energy gels are essential for marathon training, the high cost of commercial gels, and provides a step-by-step guide to making your own gels using maltodextrin and fructose. Includes a cost comparison and a link to a gel calculator app."
-headerimage: "/endurance/diy-energy-gels-save-money-and-customize-your-marathon-fuel/DIY_GELS_1.JPEG"
+headerimage: "/endurance/diy-energy-gels-save-money-and-customize-your-marathon-fuel/DIY_GELS_1.avif"
 headerimagealt: "Image of scale, powder, hydra flasks, and reusable squeeze pouches"
 ---
 
@@ -19,7 +19,7 @@ Then there’s the hassle of testing which gels your stomach can tolerate, plann
 
 For the last six months, I’ve been whipping up my own gels, and I’ve downed way more homemade stuff than the store-bought kind. Honestly, I can’t even recall the last time I squeezed one of those plastic sachets into my mouth. Maybe it was that half-marathon where I overpaced, snagged one from an aid station, and prayed it’d pull me out of the slump.
 
-![Image of scale, powder, hydra flasks, and reusable squeeze pouches](DIY_GELS_1.JPEG)
+![Image of scale, powder, hydra flasks, and reusable squeeze pouches](DIY_GELS_1.avif)
 
 ## The Basic Recipe
 
@@ -61,23 +61,23 @@ Let’s break down the cash factor:
 
 And if you go big—say, 10kg of maltodextrin at €3 per kg and 5kg of fructose at €5.60 per kg—you’re down to just €0.43 per 100g. That’s a jaw-dropping 97% savings!
 
-![Image of scale with powder mixture](DIY_GELS_2.JPEG)
+![Image of scale with powder mixture](DIY_GELS_2.avif)
 
 ## How to Prepare the Gel
 
 Here’s the step-by-step to turn powder into marathon fuel:
 
 1. **Mix the powder:** Blend the maltodextrin, fructose, and salt (if you’re into that) using the ratios above. Store it as a dry mix for later. Fair warning: traveling with this stuff might raise eyebrows—looks like I’m smuggling *another* white powder to races!
-![Image of powder mixture container with bottle and pouches](DIY_GELS_3.JPEG)
+![Image of powder mixture container with bottle and pouches](DIY_GELS_3.avif)
 
-2. **Make it a gel:** Grab a sealable water bottle. Funnel the powder in (a rolled-up paper works if you’re low-tech). Add warm water bit by bit, shaking after each splash, until it’s a gel you can stomach. I use the 150ml volume of my Hydra Flask as a mark—good for up to 120g of carbs.
-![Image of mixture in shaker bottle](DIY_GELS_4.JPEG)
+1. **Make it a gel:** Grab a sealable water bottle. Funnel the powder in (a rolled-up paper works if you’re low-tech). Add warm water bit by bit, shaking after each splash, until it’s a gel you can stomach. I use the 150ml volume of my Hydra Flask as a mark—good for up to 120g of carbs.
+![Image of mixture in shaker bottle](DIY_GELS_4.avif)
 
-3. **Pick your container:** Once it’s dissolved, transfer it to whatever works: a 150ml Hydra Flask, reusable squeeze pouches, or even ziplock bags.
+1. **Pick your container:** Once it’s dissolved, transfer it to whatever works: a 150ml Hydra Flask, reusable squeeze pouches, or even ziplock bags.
 
 For regular training, I just keep it in the bottle and sip it like a drink mix. No extra water bottle needed—boom, efficiency.
 
-![Image of gel in Hydra Flask](DIY_GELS_5.JPEG)
+![Image of gel in Hydra Flask](DIY_GELS_5.avif)
 
 ## Customization and Future Plans
 

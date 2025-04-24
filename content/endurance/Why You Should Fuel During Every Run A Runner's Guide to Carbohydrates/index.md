@@ -7,7 +7,7 @@ tags: ["carbohydrates", "fueling", "training", "recovery", "gels"]
 description: "Discover why fueling during every run can boost your performance and recovery, and how to do it right."
 meta: "Learn the science behind carbohydrate intake for runners, how to optimize your fueling strategy for different training intensities, and why even easy runs might benefit from a little extra energy."
 summary: "This post explores the importance of carbohydrates for runners, discussing how training volume and intensity affect your fueling needs. It also provides practical tips on how to incorporate fueling into every run, including a simple formula for calculating your carbohydrate intake."
-headerimage: "/endurance/why-you-should-fuel-during-every-run-a-runners-guide-to-carbohydrates/FUEL_1.jpg"
+headerimage: "/endurance/why-you-should-fuel-during-every-run-a-runners-guide-to-carbohydrates/FUEL_1.avif"
 headerimagealt: "Image of a gel sachet lying on a diet plan"
 ---
 

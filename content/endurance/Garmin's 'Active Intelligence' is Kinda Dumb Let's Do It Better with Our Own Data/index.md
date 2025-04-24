@@ -7,7 +7,7 @@ tags: ["Garmin", "Garmin Connect", "Active Intelligence", "AI", "LLM", "Running"
 description: "Garmin's new AI feature 'Active Intelligence' feels underwhelming. Let's explore why it's basic and how you can *actually* get useful insights from your Garmin data using CSV exports and LLMs."
 meta: "Critique of Garmin's Active Intelligence AI and a guide on using your exported Garmin CSV data with LLMs for better running analysis and custom prompts."
 summary: "Garmin's paid 'Active Intelligence' often states the obvious. This post rants about why it likely exists, explains its limitations (LLM prompts, caching), and shows you how to export your Garmin data and use LLMs like Google Gemini for *truly* personalized and insightful running analysis with example prompts."
-headerimage: "/endurance/garmins-active-intelligence-is-kinda-dumb--lets-do-it-better-with-our-own-data/PROMPT_3.png"
+headerimage: "/endurance/garmins-active-intelligence-is-kinda-dumb-lets-do-it-better-with-our-own-data/PROMPT_3.avif"
 headerimagealt: "Image of graph with average cadence to average ground contact time"
 ---
 
@@ -90,7 +90,7 @@ Here are nine prompts to kickstart your personalized analysis using your Garmin 
     ``Based on the analysis of your running data from the last 3 months, here is the trend for your average pace on runs between 8 km and 12 km: [Chart showing pace trend].
     Summary: Your average pace for runs between 8 km and 12 km over the last 3 months shows a slight improving trend.``
 
-    ![Image](PROMPT_1.png)
+    ![Image](PROMPT_1.avif)
 
 ---
 
@@ -103,7 +103,7 @@ Here are nine prompts to kickstart your personalized analysis using your Garmin 
     ``Based on the analysis of your easy runs (Average HR < 146 bpm) over the last six months, here is the trend of your Aerobic Efficiency Factor: [Chart showing Efficiency Factor trend].
     Your aerobic efficiency shows a clear positive trend over the analyzed period, indicating you are running faster at the same average heart rate, or maintaining the same pace with a lower average heart rate.``
 
-    ![Image](PROMPT_2.png)
+    ![Image](PROMPT_2.avif)
 
 ---
 
@@ -115,7 +115,7 @@ Here are nine prompts to kickstart your personalized analysis using your Garmin 
 
     ``Over the last four months, your running data for activities longer than 5 km shows a strong negative correlation (-0.84) between average cadence and average ground contact time (GCT), meaning as your cadence generally increased, your GCT decreased, as illustrated in the plot: [Chart showing Cadence and GCT trends].``
 
-    ![Image](PROMPT_3.png)
+    ![Image](PROMPT_3.avif)
 
 ---
 
@@ -127,7 +127,7 @@ Here are nine prompts to kickstart your personalized analysis using your Garmin 
 
     ``Analyzing your VO and VR on flat runs (<50m ascent/10km) over the last 4 months: [Chart showing VO/VR vs Pace or Time]. Your average VO is [X.X]cm, generally within typical ranges. The plot shows a weak positive correlation between average pace and vertical oscillation on these flat runs, suggesting slightly higher bounce when running slower.``
 
-    ![Image](PROMPT_4.png)
+    ![Image](PROMPT_4.avif)
 
 ---
 
@@ -139,7 +139,7 @@ Here are nine prompts to kickstart your personalized analysis using your Garmin 
 
     ``Comparing three recent flat 10k runs: [Chart or table showing Pace SD or Avg Pace vs Best Pace]. Your most recent runs from mid-April 2025 show a slightly smaller gap (24-27 seconds/km) between your average pace and your best pace compared to the runs from late March/early April 2025 (31-32 seconds/km), suggesting slightly less extreme pace variation recently based on this metric.``
 
-    ![Image](PROMPT_5.png)
+    ![Image](PROMPT_5.avif)
 
 ---
 
@@ -151,7 +151,7 @@ Here are nine prompts to kickstart your personalized analysis using your Garmin 
 
     ``Here is a proposed 16-week mileage progression for your sub-75 minute Half Marathon goal: [Chart showing weekly mileage build-up]. The full plan includes specific easy, tempo, interval, and long run workouts tailored to your current fitness...``
 
-    ![Image](PROMPT_6.png)
+    ![Image](PROMPT_6.avif)
 
 ---
 
