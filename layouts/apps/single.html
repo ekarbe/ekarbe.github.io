@@ -1,0 +1,71 @@
+{{ define "main" }}
+{{ $appData := false }}
+{{ $appSlugFromParams := .Params.app_slug }}
+
+{{ if $appSlugFromParams }}
+{{ range .Site.Data.apps }}
+{{ if eq .slug $appSlugFromParams }}
+{{ $appData = . }}
+{{ end }}
+{{ end }}
+{{ end }}
+<div class="container">
+    <article class="post">
+        {{ if $appData }}
+        <header class="post-header">
+            {{ with $appData.logoPath }}
+            <img src="{{ . | absURL }}" alt="{{ $appData.title }} Logo"
+                class="app-logo"
+                style="max-width: 100px; height: auto; margin-top: 10px;">
+            {{ end }}
+            <h1 class="post-title">{{ $appData.title }}</h1>
+
+        </header>
+        <div class="post-content">
+            {{ with $appData.explanation }}
+            <p>{{ . | markdownify }}</p>
+            {{ end }}
+
+            {{ with $appData.appPath }}
+            <p>
+                <div class="button-container">
+                    <a href="{{ . | absURL }}" class="button button-primary"
+                        target="_blank" rel="noopener noreferrer">
+                        Go to {{ $appData.title }}
+                    </a>
+                </div>
+            </p>
+            {{ end }}
+            {{ .Content }}
+
+        </div>
+        {{ else }}
+        <header class="post-header">
+            <h1 class="post-title">App Data Error</h1>
+        </header>
+        <div class="post-content">
+            {{ if not $appSlugFromParams }}
+            <p><strong>Error:</strong> The <code>app_slug</code> parameter is
+                missing in the front matter of this page (<code>{{ .File.Path
+                    }}</code>).</p>
+            {{ else }}
+            <p><strong>Error:</strong> Could not find app data matching the slug
+                "<code>{{ $appSlugFromParams }}</code>" defined in the front
+                matter of this page (<code>{{ .File.Path }}</code>). Please
+                check <code>data/apps.yaml</code>.</p>
+            {{ end }}
+            {{ .Content }}
+        </div>
+        {{ end }}
+    </article>
+</div>
+
+<style>
+.button-container { text-align: center; padding: 2rem; }
+.button { display: inline-block; padding: 10px 20px; border: 1px solid transparent; border-radius: 4px; text-decoration: none; font-size: 1em; cursor: pointer; transition: background-color 0.3s ease, color 0.3s ease; }
+.button-primary { background-color: #007bff; color: white; border-color: #007bff; }
+.button-primary:hover { background-color: #0056b3; border-color: #0056b3; color: white; }
+.app-logo { max-width: 100px; height: auto; margin-top: 10px; display: block; margin-bottom: 15px; }
+</style>
+
+{{ end }}
