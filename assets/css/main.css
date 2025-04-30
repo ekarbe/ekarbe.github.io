@@ -444,8 +444,10 @@ body.ai .section-intro {
   color: inherit;
 }
 .app-logo {
-  max-width: 80px; /* Adjust size */
-  max-height: 80px; /* Adjust size */
+  width: 48px;
+  height: 48px;
+  max-width: 80px;
+  max-height: 80px;
   margin-bottom: 10px;
   display: block;
   margin-left: auto;

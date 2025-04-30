@@ -22,9 +22,8 @@
 
         </header>
         <div class="post-content">
-            {{ with $appData.explanation }}
-            <p>{{ . | markdownify }}</p>
-            {{ end }}
+            
+            {{ .Content }}
 
             {{ with $appData.appPath }}
             <p>
@@ -36,7 +35,6 @@
                 </div>
             </p>
             {{ end }}
-            {{ .Content }}
 
         </div>
         {{ else }}
