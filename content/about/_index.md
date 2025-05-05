@@ -16,7 +16,7 @@ expertise:
     description: "My experiments with AI tools and technologies that actually solve real-world problems—minus the hype and buzzwords."
     icon: "🧠"
     class: "ai-card"
-professional: "I've bounced between startups and bigger companies, picking up skills and battle scars along the way. My technical toolkit includes a bunch of programming languages and frameworks, but what I really care about is building systems that don't fall apart when things get busy."
+professional: ""
 endurance: "My approach to endurance sports is pretty simple: understand the science, test it on myself, and share what actually works. I'm not an elite athlete by any stretch, but I've logged enough miles to know what makes a difference versus what's just marketing noise."
 ai: "What fascinates me about AI isn't the fancy tech—it's how these tools can solve real problems when applied thoughtfully. I try to cut through the hype and focus on practical applications that make life better or work easier."
 contactText: "Got a question, project idea, or just want to chat about any of this stuff? I'm all ears! Drop me a line anytime."

@@ -9,5 +9,3 @@
   description: "A web application to estimate potential running pace improvements based on projected weight loss."
   appPath: "/weight-pace-calculator/"
   logoPath: "/apps/weight-pace-calculator/weight-pace-calculator.svg"
-
-
