@@ -1,0 +1,117 @@
+/* assets/css/timeline.css */
+
+.timeline {
+    position: relative;
+    max-width: 800px; /* Adjust to your preferred max width */
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px; /* Space for the first item's circle visibility */
+    padding-bottom: 10px; /* Space for the last item's circle visibility */
+}
+
+/* The central vertical line */
+.timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 3px;
+    background-color: #e2e8f0; /* Tailwind gray-300 or your theme's line color */
+    transform: translateX(-50%);
+    z-index: 0; /* Behind timeline items and circles */
+}
+
+.timeline-item {
+    position: relative;
+    width: 50%;
+    box-sizing: border-box;
+    /* Tailwind class mb-12 (3rem) is applied in HTML for bottom margin */
+}
+
+/* Adjust alignment and add padding for items on the left */
+.timeline-item.left {
+    left: 0;
+    padding-right: 40px; /* Space between content and the central line */
+}
+
+/* Adjust alignment and add padding for items on the right */
+.timeline-item.right {
+    left: 50%;
+    padding-left: 40px; /* Space between the central line and content */
+}
+
+/* The circle marker on the timeline */
+.timeline-item::after {
+    content: '';
+    position: absolute;
+    width: 16px; /* Diameter of the circle */
+    height: 16px;
+    border-radius: 50%;
+    background-color: #ffffff; /* Typically white or site background */
+    border: 4px solid #000000; /* Changed to black */
+    /* Align circle's top to be vertically centered with the 32px (w-8 h-8) icon */
+    /* Card padding-top (p-6 is 24px). Icon height is 32px. Icon center from card top: 24px + (32px/2) = 40px. Circle top: 40px - (16px/2) = 32px. */
+    top: 32px;
+    z-index: 1; /* Above the timeline line */
+}
+
+.timeline-item.left::after {
+    right: -0.8rem; /* (Circle width / 2), to center on the item's right edge */
+}
+
+.timeline-item.right::after {
+    left: -0.7rem; /* (Circle width / 2), to center on the item's left edge */
+}
+
+/* Responsive adjustments for smaller screens */
+@media screen and (max-width: 768px) {
+    .timeline::before {
+        left: 15px; /* Move line to the left */
+        transform: translateX(0);
+    }
+
+    .timeline-item,
+    .timeline-item.left,
+    .timeline-item.right {
+        width: 100%;
+        left: 0; /* Stack all items */
+        padding-left: 35px; /* Space for line and circle (line at 15px, circle 16px wide) */
+        padding-right: 15px; /* Basic padding on the other side */
+    }
+
+    .timeline-item::after,
+    .timeline-item.left::after,
+    .timeline-item.right::after {
+        left: 7px; /* (15px line position - 16px_circle_width / 2) */
+        top: 32px; /* Keep consistent with new icon size alignment */
+    }
+
+    .timeline-end-marker::before {
+        left: 15px; /* Align with the shifted timeline line */
+        /* transform: translate(-50%, 100%); /* Keep this if you want the dots centered on the 15px line */
+    }
+}
+
+/* Styling for the "..." at the end of the timeline */
+.timeline-end-marker {
+    position: relative; /* For positioning the pseudo-element */
+    height: 40px; /* Adjust height as needed for the dots */
+    padding-top: 20px; /* Space after the last item */
+    clear: both; /* Ensures it's below any floated timeline items */
+}
+
+.timeline-end-marker::before {
+    content: '•\A•\A•'; /* Three bullet points with line breaks */
+    white-space: pre;    /* Respects the line breaks in content */
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 100%);
+    top: 10px; /* Adjust to position dots vertically within the marker's padding/height */
+    color: #e2e8f0;      /* Same color as the timeline line */
+    font-size: 1.2em;    /* Adjust size of the dots */
+    line-height: 0.7;    /* Adjust vertical spacing between dots */
+    font-weight: bold;   /* Makes dots a bit more visible */
+    text-align: center;
+    z-index: 0;
+}

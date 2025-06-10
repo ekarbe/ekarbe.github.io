@@ -2,10 +2,14 @@
 <html lang="{{ .Site.LanguageCode | default "en" }}">
     {{ partial "head.html" . }}
     <body class="{{ .Section }}">
-        {{ partial "header.html" . }}
         <main>
             {{ block "main" . }}{{ end }}
         </main>
+        {{/* Add Timeline CSS */}}
+        {{ $timelineCSS := resources.Get "css/timeline.css" }}
+        {{ $timelineCSS = resources.Minify $timelineCSS }}
+        {{ $timelineCSS = resources.Fingerprint $timelineCSS }}
+        <link rel="stylesheet" href="{{ $timelineCSS.RelPermalink }}">
         {{ partial "footer.html" . }}
         {{ $mainJS := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
         <script src="{{ $mainJS.RelPermalink }}"></script>
