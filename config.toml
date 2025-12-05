@@ -1,44 +1,10 @@
 baseURL = "https://eikekarbe.com/"
 languageCode = "en-us"
-title = "Dev, Endurance & AI Insights | Eike Christian Karbe"
+title = 'Eike Christian Karbe'
+theme = []
 
 [params]
-  description = "Explore Eike Christian Karbe's expert insights on software development trends, endurance optimization, and artificial intelligence developments."
-  keywords = "developer blog, endurance advice, AI research, Eike Karbe, software development trends"
-  author = "Eike Christian Karbe"
-  paginate = 6
-  
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
-    name = "Dev"
-    url = "/devnotes/"
-    weight = 3
-  [[menu.main]]
-    name = "Endurance"
-    url = "/endurance/"
-    weight = 4
-  [[menu.main]]
-    name = "AI"
-    url = "/ai/"
-    weight = 5
-
-[markup.goldmark.renderer]
-  unsafe = true
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  
-[outputFormats.JSON]
-  mediaType = "application/json"
-  baseName = "index"
-  isPlainText = true
-  rel = "alternate"
-  notAlternative = true
+  description = "I build specialized web applications focusing on performance, endurance sports, and data analysis."
+  github = "https://github.com/ekarbe"
+  email = "eike@eikekarbe.com"
+  strava = "https://www.strava.com/athletes/58442765"
