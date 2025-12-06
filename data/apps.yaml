@@ -21,3 +21,15 @@
     - "Analytics"
   color: "from-emerald-500/20 to-green-500/20"
   icon_color: "text-emerald-400"
+
+- title: "Prevent Pain"
+  slug: "prevent-pain"
+  description: "WIP web application for interactive pain locating and exercise recommendations."
+  url: "/prevent-pain/"
+  icon: "icons/prevent-pain.svg"
+  tags:
+    - "Running"
+    - "Rehab"
+    - "Strength"
+  color: "from-red-500/20 to-orange-500/20"
+  icon_color: "text-red-400"
