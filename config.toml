@@ -1,10 +1,21 @@
 baseURL = "https://eikekarbe.com/"
 languageCode = "en-us"
 title = 'Eike Christian Karbe'
-theme = []
+theme = "PaperMod"
 
 [params]
+  author = "Eike Christian Karbe"
   description = "I build specialized web applications focusing on performance, endurance sports, and data analysis."
   github = "https://github.com/ekarbe"
   email = "eike@eikekarbe.com"
   strava = "https://www.strava.com/athletes/58442765"
+
+[permalinks]
+  tder = "/tder/:slug/"
+
+[menu]
+  [[menu.main]]
+    identifier = "TDER"
+    name = "Blog"
+    url = "/tder/"
+    weight = 10
