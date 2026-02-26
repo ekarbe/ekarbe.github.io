@@ -19,3 +19,7 @@ theme = "PaperMod"
     name = "Blog"
     url = "/tder/"
     weight = 10
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-G2BLVCXHSD"

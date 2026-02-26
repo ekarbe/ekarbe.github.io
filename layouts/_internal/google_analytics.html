@@ -1,0 +1,15 @@
+{{- with .Site.Config.Services.GoogleAnalytics.ID -}}
+    <script>
+    if (document.cookie.indexOf('cookieconsent_status=allow') > -1) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ . }}');
+
+        var script = document.createElement('script');
+        script.src = "https://www.googletagmanager.com/gtag/js?id={{ . }}";
+        script.async = true;
+        document.head.appendChild(script);
+    }
+    </script>
+{{- end -}}
