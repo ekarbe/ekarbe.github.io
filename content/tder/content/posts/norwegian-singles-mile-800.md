@@ -1,6 +1,6 @@
 ---
 title: "The Science of Norwegian Singles: Why the Mile and 800m are Your Best Friend"
-date: 2026-02-26
+date: 2026-02-24
 tags: [Training, Physiology, Speed, Science]
 ---
 
