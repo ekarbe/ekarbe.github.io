@@ -2,7 +2,7 @@
 title: "The Naked Truth About Your Sweat: Science vs. Guesswork"
 description: "Dive into the scientific methods for measuring sweat rate and how to use that data to build a personalized hydration strategy that actually works."
 keywords: "sweat rate, hydration strategy, sports science, endurance running, electrolytes"
-date: 2026-02-27
+date: 2026-02-26
 tags: [Running, Science, Training, Hydration]
 ---
 

@@ -1,4 +1,4 @@
 ---
 title: "The Daily Easy Run"
-description: "Your daily content of running, carbon shoes and science."
+description: "Your daily content of running."
 ---

@@ -9,6 +9,7 @@ theme = "PaperMod"
   github = "https://github.com/ekarbe"
   email = "eike@eikekarbe.com"
   strava = "https://www.strava.com/athletes/58442765"
+  ShowToc = true
 
 [permalinks]
   tder = "/tder/:slug/"
