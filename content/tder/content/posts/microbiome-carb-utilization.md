@@ -12,33 +12,33 @@ The prevailing dogma among recreational runners is simple: easy runs are for fat
 
 ## The Physiological Mechanism: SCFAs and Substrate Utilization
 
-The primary mechanism linking the microbiome to performance is the production of Short-Chain Fatty Acids (SCFAs). These metabolites are the byproduct of microbial fermentation of indigestible carbohydrates. The "Weight of Evidence" systematic review confirms that specific dietary carbohydrates trigger distinct taxonomic shifts in the gut flora [1].
+The primary mechanism linking the microbiome to performance is the production of Short-Chain Fatty Acids (SCFAs). These metabolites are the byproduct of microbial fermentation of indigestible carbohydrates. The "Weight of Evidence" systematic review confirms that specific dietary carbohydrates trigger distinct taxonomic shifts in the gut flora.
 
-When you consume oligosaccharides (such as inulin and oligofructans), they reach the large intestine undigested, where they are hydrolyzed by glycoside hydrolases produced by gut microbiota [1]. This process fuels the proliferation of *Lactobacillus* and decreases *Enterococcus*, creating an environment conducive to gut health [1].
+When you consume oligosaccharides (such as inulin and oligofructans), they reach the large intestine undigested, where they are hydrolyzed by glycoside hydrolases produced by gut microbiota. This process fuels the proliferation of *Lactobacillus* and decreases *Enterococcus*, creating an environment conducive to gut health.
 
 The resulting SCFAs serve a dual function:
-1.  **Metabolic Signaling:** They nourish colon cells and help maintain the structural integrity of the gut lining, preventing "leaky gut" and subsequent systemic inflammation [4].
-2.  **Energy Availability:** While traditionally viewed as fuel for the colon, SCFAs influence systemic metabolic regulation. A compromised microbiome leads to reduced SCFA production, weakening the gut barrier and increasing permeability, which drives systemic inflammation-a known inhibitor of VO2max and recovery [4].
+1.  **Metabolic Signaling:** They nourish colon cells and help maintain the structural integrity of the gut lining, preventing "leaky gut" and subsequent systemic inflammation.
+2.  **Energy Availability:** While traditionally viewed as fuel for the colon, SCFAs influence systemic metabolic regulation. A compromised microbiome leads to reduced SCFA production, weakening the gut barrier and increasing permeability, which drives systemic inflammation-a known inhibitor of VO2max and recovery.
 
 ## The Contrarian View: Fasted Easy Runs Are a Mistake
 
-The consensus suggests that easy runs should be performed fasted to maximize fat oxidation. However, this contrarian perspective argues that running on an empty gut starves the microbiome. The "Intense Exercise" study highlights that training load alters gut bacteria composition, with lactate and transit time playing key roles [3].
+The consensus suggests that easy runs should be performed fasted to maximize fat oxidation. However, this contrarian perspective argues that running on an empty gut starves the microbiome. The "Intense Exercise" study highlights that training load alters gut bacteria composition, with lactate and transit time playing key roles.
 
-If you run fasted, you fail to provide the soluble and insoluble fibers necessary to sustain *Bacteroides* and *Actinobacteria* populations [1]. Without this substrate, the gut microbiota shifts toward a state of dysbiosis. This is not merely a digestive issue; it is a performance inhibitor. A dysbiotic gut produces less butyrate (a critical SCFA for gut barrier integrity) and may encourage the growth of bacteria that feed on mucosal lining rather than fiber [4].
+If you run fasted, you fail to provide the soluble and insoluble fibers necessary to sustain *Bacteroides* and *Actinobacteria* populations [1]. Without this substrate, the gut microbiota shifts toward a state of dysbiosis. This is not merely a digestive issue; it is a performance inhibitor. A dysbiotic gut produces less butyrate (a critical SCFA for gut barrier integrity) and may encourage the growth of bacteria that feed on mucosal lining rather than fiber.
 
-Furthermore, the Gut-Brain Axis is compromised. Approximately 90% of the body's serotonin is synthesized in the gut [5]. A starving microbiome fails to produce adequate neurotransmitter precursors, leading to increased perceived effort and mood disturbances during what should be a recovery session. You are not "saving" glycogen; you are degrading your metabolic flexibility.
+Furthermore, the Gut-Brain Axis is compromised. Approximately 90% of the body's serotonin is synthesized in the gut. A starving microbiome fails to produce adequate neurotransmitter precursors, leading to increased perceived effort and mood disturbances during what should be a recovery session. You are not "saving" glycogen; you are degrading your metabolic flexibility.
 
 ## Evidence-Based Dietary Strategies for Easy Runs
 
 To optimize carbohydrate utilization and prevent gastrointestinal distress, you must manipulate the microbiome composition through targeted nutrition before and during easy sessions.
 
-1.  **Pre-Run Oligosaccharides:** Consume foods rich in inulin and oligofructans 60–90 minutes prior to easy runs. This ensures *Lactobacillus* populations are primed to ferment the fiber, preventing the accumulation of undigested carbohydrates that cause bloating [1].
+1.  **Pre-Run Oligosaccharides:** Consume foods rich in inulin and oligofructans 60–90 minutes prior to easy runs. This ensures *Lactobacillus* populations are primed to ferment the fiber, preventing the accumulation of undigested carbohydrates that cause bloating.
 
-2.  **Gelatinized Starches:** Utilize gelatinized starches (e.g., white rice, potatoes) to increase the abundance of *Prevotella*. This bacterial genus is associated with carbohydrate metabolism efficiency [1].
+2.  **Gelatinized Starches:** Utilize gelatinized starches (e.g., white rice, potatoes) to increase the abundance of *Prevotella*. This bacterial genus is associated with carbohydrate metabolism efficiency.
 
-3.  **Avoid Simple Sugars:** Do not consume high-glycemic simple sugars (sucrose, lactose) on easy runs unless necessary for gut training. These disaccharides are easily hydrolyzed in the small intestine, but if enzyme availability is low, they reach the colon and are degraded by opportunistic pathogens like *Enterococcus*, increasing the risk of GI distress [1].
+3.  **Avoid Simple Sugars:** Do not consume high-glycemic simple sugars (sucrose, lactose) on easy runs unless necessary for gut training. These disaccharides are easily hydrolyzed in the small intestine, but if enzyme availability is low, they reach the colon and are degraded by opportunistic pathogens like *Enterococcus*, increasing the risk of GI distress.
 
-4.  **Soluble Fiber Maintenance:** Ensure a baseline intake of soluble fiber (pectin, beta-glucan) to maintain *Bacteroides* populations, which are linked to a healthier metabolic profile [1].
+4.  **Soluble Fiber Maintenance:** Ensure a baseline intake of soluble fiber (pectin, beta-glucan) to maintain *Bacteroides* populations, which are linked to a healthier metabolic profile.
 
 ## The Takeaway
 
