@@ -8,19 +8,19 @@ tags: [Running, Science, Training]
 
 # Is the 'Venous Return' Myth Costing You Gains?
 
-The hobbyist consensus dictates that compression gear is a metabolic pump. The data says otherwise. A scoping review of 183 studies indicates that while compression garments reduce muscle oscillatory properties and increase localized skin temperature, they likely do not meaningfully change metabolic responses, blood pressure, or heart rate [Source: Putting the Squeeze on Compression Garments].
+The hobbyist consensus dictates that compression gear is a metabolic pump. The data says otherwise. A scoping review of 183 studies indicates that while compression garments reduce muscle oscillatory properties and increase localized skin temperature, they likely do not meaningfully change metabolic responses, blood pressure, or heart rate.
 
 ## The Mechanism: Mechanical Stabilization
 
-The primary mechanism for reduced soreness is mechanical, not chemical. Compression dampens the micro-vibrations of muscle fascia during recovery, stabilizing the sensorimotor system. This stabilization, combined with the slight elevation in skin temperature, creates an environment where the perception of pain is lower, even if the tissue damage is identical [Source: Putting the Squeeze on Compression Garments].
+The primary mechanism for reduced soreness is mechanical, not chemical. Compression dampens the micro-vibrations of muscle fascia during recovery, stabilizing the sensorimotor system. This stabilization, combined with the slight elevation in skin temperature, creates an environment where the perception of pain is lower, even if the tissue damage is identical.
 
 ## The Controversy: Circulation is Overrated
 
-The "venous return" argument is marketing fluff. While venous return is improved, the physiological impact on recovery is negligible compared to the mechanical benefits. Furthermore, there is no apparent relation between the pressure applied and the reported effects; low and high pressures yield similar results in reducing delayed-onset muscle soreness (DOMS) [Source: Compression Garments and Exercise: No Influence of Pressure].
+The "venous return" argument is marketing fluff. While venous return is improved, the physiological impact on recovery is negligible compared to the mechanical benefits. Furthermore, there is no apparent relation between the pressure applied and the reported effects; low and high pressures yield similar results in reducing delayed-onset muscle soreness (DOMS).
 
 ## The Data: Strength and Power Retention
 
-Despite the lack of metabolic magic, the gear has utility. A meta-analysis of 27 studies confirms that compression garments significantly mitigate the decline in muscle strength and power after exercise-induced fatigue. The effect is more pronounced in trained individuals, suggesting that compression gear is a tool for maintenance rather than a cure-all for fatigue [Source: Effects of Compression Garments on Muscle Strength and Power Recovery].
+Despite the lack of metabolic magic, the gear has utility. A meta-analysis of 27 studies confirms that compression garments significantly mitigate the decline in muscle strength and power after exercise-induced fatigue. The effect is more pronounced in trained individuals, suggesting that compression gear is a tool for maintenance rather than a cure-all for fatigue.
 
 ## Practical Application
 

@@ -12,11 +12,11 @@ The immediate post-exercise window is not a time for dietary experimentation. It
 
 ### The Mechanism: Glycogen Synthase and the Anabolic Switch
 
-During prolonged aerobic exercise, skeletal muscle relies on glycogen as the primary fuel source. The depletion of these stores is directly correlated with the onset of fatigue and the inability to maintain intensity [1]. The transition from catabolism to anabolism requires the activation of glycogen synthase, the rate-limiting enzyme for glycogen synthesis.
+During prolonged aerobic exercise, skeletal muscle relies on glycogen as the primary fuel source. The depletion of these stores is directly correlated with the onset of fatigue and the inability to maintain intensity. The transition from catabolism to anabolism requires the activation of glycogen synthase, the rate-limiting enzyme for glycogen synthesis.
 
-Research indicates that the activity of glycogen synthase is maximally stimulated immediately post-exercise. If carbohydrate intake is delayed, this enzymatic activity decays rapidly. A study on high-intensity interval exercise (HIIE) demonstrated that delaying carbohydrate ingestion for just three hours resulted in a significant reduction in subsequent performance. Participants who consumed carbs immediately completed five more VO2 max intervals than those who delayed intake, with lower RPE and heart rates [2].
+Research indicates that the activity of glycogen synthase is maximally stimulated immediately post-exercise. If carbohydrate intake is delayed, this enzymatic activity decays rapidly. A study on high-intensity interval exercise (HIIE) demonstrated that delaying carbohydrate ingestion for just three hours resulted in a significant reduction in subsequent performance. Participants who consumed carbs immediately completed five more VO2 max intervals than those who delayed intake, with lower RPE and heart rates.
 
-To maximize the rate of muscle glycogen replenishment, the data suggests a specific protocol: consume a carbohydrate supplement immediately post-exercise and continue supplementation at frequent intervals, providing approximately 1.2 to 1.5 g of carbohydrate per kg of body weight per hour [1].
+To maximize the rate of muscle glycogen replenishment, the data suggests a specific protocol: consume a carbohydrate supplement immediately post-exercise and continue supplementation at frequent intervals, providing approximately 1.2 to 1.5 g of carbohydrate per kg of body weight per hour.
 
 ### The Controversy: The Fat Oxidation Fallacy
 
@@ -24,15 +24,15 @@ The running hobbyist consensus often conflates "fat burning" with recovery. The 
 
 The ingestion of carbohydrates triggers an insulin response. Insulin is an anabolic hormone that shuttles glucose into muscle cells. While this process suppresses fat oxidation in the immediate post-exercise window, it is essential for the rapid resynthesis of glycogen. Attempting to remain in a fat-burning state immediately post-workout is counterproductive for the athlete who trains again within 24 hours. If glycogen stores are not fully replenished, the body cannot access the high-intensity energy systems required for the next session, leading to premature fatigue and "hitting the wall" during the next run.
 
-Furthermore, the addition of protein to the carbohydrate supplement (approximately a 4:1 ratio) significantly increases the efficiency of glycogen storage and promotes muscle protein synthesis [1]. This challenges the notion that protein is solely for muscle repair; it is a critical co-factor in the recovery process.
+Furthermore, the addition of protein to the carbohydrate supplement (approximately a 4:1 ratio) significantly increases the efficiency of glycogen storage and promotes muscle protein synthesis. This challenges the notion that protein is solely for muscle repair; it is a critical co-factor in the recovery process.
 
 ### Practical Application: The 30-Minute Rule
 
-The "4R’s Framework" of recovery identifies Refuel as the critical second step after Rehydration. This is not a suggestion; it is a requirement for tissue adaptation and restoration of training capacity [3].
+The "4R’s Framework" of recovery identifies Refuel as the critical second step after Rehydration. This is not a suggestion; it is a requirement for tissue adaptation and restoration of training capacity.
 
 1.  **Immediate Ingestion:** Do not wait for a sit-down meal. The first 30-60 minutes are the only time the body can rapidly uptake glucose.
-2.  **High Glycemic Index (GI):** Utilize high-GI carbohydrates. Studies show high-GI foods can increase muscle glycogen synthesis by over 50% compared to low-GI foods [2].
-3.  **Frequency:** Consume the fuel frequently, such as every 30 minutes, rather than in a single bolus [1].
+2.  **High Glycemic Index (GI):** Utilize high-GI carbohydrates. Studies show high-GI foods can increase muscle glycogen synthesis by over 50% compared to low-GI foods.
+3.  **Frequency:** Consume the fuel frequently, such as every 30 minutes, rather than in a single bolus.
 
 ### The Takeaway
 
