@@ -14,28 +14,28 @@ At 70% of maximum aerobic capacity (VO2 max), we are operating in the 'FatMax' z
 
 ## The Physiology of Glycogen at 70% VO2 Max
 
-The rate at which muscle glycogen is degraded is strictly intensity-dependent. During high-intensity activity, degradation is rapid (4-5 mmol/kg/min), but at 70% VO2 max, the rate drops significantly to approximately 1-2 mmol/kg/min [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728479/). This means that for a standard easy run, the absolute volume of glycogen utilized is negligible compared to a tempo session or a track workout.
+The rate at which muscle glycogen is degraded is strictly intensity-dependent. During high-intensity activity, degradation is rapid (4-5 mmol/kg/min), but at 70% VO2 max, the rate drops significantly to approximately 1-2 mmol/kg/min. This means that for a standard easy run, the absolute volume of glycogen utilized is negligible compared to a tempo session or a track workout.
 
-Furthermore, glycogen is not just a fuel store; it is a signaling molecule that regulates the expression of genes related to oxidative metabolism [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728479/). When glycogen levels are low, the body signals for adaptations that increase fat oxidation and mitochondrial density. If we constantly refuel glycogen immediately after every Zone 2 session, we may blunt these molecular adaptations.
+Furthermore, glycogen is not just a fuel store; it is a signaling molecule that regulates the expression of genes related to oxidative metabolism. When glycogen levels are low, the body signals for adaptations that increase fat oxidation and mitochondrial density. If we constantly refuel glycogen immediately after every Zone 2 session, we may blunt these molecular adaptations.
 
 ## The Contrarian View: Timing vs. Total Availability
 
 The prevailing 'hobbyist' consensus suggests that immediate carbohydrate intake is non-negotiable. However, the evidence suggests a more nuanced approach based on circadian rhythms and total daily intake rather than post-exercise urgency.
 
-1.  **Circadian Rhythms:** Research indicates that insulin sensitivity, which dictates how efficiently glucose is stored as glycogen, is highest in the morning and declines throughout the day [3](https://www.torrinomedica.com/en/articles/optimal-timing-for-carbohydrate-intake). If you train in the morning, your body is primed to store glycogen. If you train in the evening, the metabolic environment is less optimal for immediate storage, making the 'immediate' window less critical.
+1.  **Circadian Rhythms:** Research indicates that insulin sensitivity, which dictates how efficiently glucose is stored as glycogen, is highest in the morning and declines throughout the day. If you train in the morning, your body is primed to store glycogen. If you train in the evening, the metabolic environment is less optimal for immediate storage, making the 'immediate' window less critical.
 
-2.  **Total Daily Load:** The ability to train day after day depends on adequate restoration of muscle glycogen, but this process primarily requires the consumption of sufficient dietary carbohydrates over a 24-hour period, rather than a specific post-workout bolus [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728479/). For an easy run, the glycogen depletion is so minimal that the total daily intake (8–12 g carbohydrate/kg of body weight) is the limiting factor, not the timing of the recovery snack.
+2.  **Total Daily Load:** The ability to train day after day depends on adequate restoration of muscle glycogen, but this process primarily requires the consumption of sufficient dietary carbohydrates over a 24-hour period, rather than a specific post-workout bolus. For an easy run, the glycogen depletion is so minimal that the total daily intake (8–12 g carbohydrate/kg of body weight) is the limiting factor, not the timing of the recovery snack.
 
-3.  **The Fat Oxidation Priority:** The goal of easy running is to improve metabolic flexibility. Consuming high amounts of carbohydrates immediately after a session that burns very little carbohydrate may force the body to oxidize glucose rather than fat during the subsequent recovery period, potentially hindering the training goal of fat adaptation [4](https://www.debbiepotts.com/improve-fat-oxidation-rates/).
+3.  **The Fat Oxidation Priority:** The goal of easy running is to improve metabolic flexibility. Consuming high amounts of carbohydrates immediately after a session that burns very little carbohydrate may force the body to oxidize glucose rather than fat during the subsequent recovery period, potentially hindering the training goal of fat adaptation.
 
 ## Practical Application: The 'Hunger-First' Protocol
 
-The 'zero muscle glycogen synthesis' claim often cited in timing literature applies to high-intensity glycogen depletion scenarios [5](https://www.torrinomedica.com/en/articles/optimal-timing-for-carbohydrate-intake). For easy runs, glycogen levels remain relatively stable.
+The 'zero muscle glycogen synthesis' claim often cited in timing literature applies to high-intensity glycogen depletion scenarios. For easy runs, glycogen levels remain relatively stable.
 
 Instead of forcing a recovery shake, athletes should prioritize total daily availability and circadian timing. If you are training in the morning, breakfast is the optimal time to consume carbohydrates to maximize glycogen super-compensation. If you train in the evening, you should wait until you are hungry and eat a balanced meal that includes protein and fats, rather than a high-carb isolate.
 
-*   **Do not fear the empty tank:** At 70% VO2 max, your glycogen stores will not be depleted to a level that impairs your next day's performance [6](https://www.pnoe.com/improve-fat-oxidation-rates/).
-*   **Prioritize sleep and stress management:** Poor sleep increases cortisol, which can impair glycogen resynthesis and promote carbohydrate dependency [4](https://www.debbiepotts.com/improve-fat-oxidation-rates/).
+*   **Do not fear the empty tank:** At 70% VO2 max, your glycogen stores will not be depleted to a level that impairs your next day's performance.
+*   **Prioritize sleep and stress management:** Poor sleep increases cortisol, which can impair glycogen resynthesis and promote carbohydrate dependency.
 
 ## Takeaway
 

@@ -14,7 +14,7 @@ The prevailing hobbyist consensus suggests that gradual volume increases via the
 
 ## The Fatigue Spectrum: From Adaptation to Maladaptation
 
-We must distinguish between the stages of fatigue as defined by Sports Health [3]. The body operates on a spectrum:
+We must distinguish between the stages of fatigue as defined by Sports Health. The body operates on a spectrum:
 
 *   **Functional Overreaching (FO):** Planned stress leads to temporary fatigue followed by supercompensation (improvement).
 *   **Nonfunctional Overreaching (NFO):** Stress continues without recovery. Performance stagnates or declines. This is the "warning zone."
@@ -24,9 +24,9 @@ Most beginners operate in NFO without realizing it. They feel "stale," sleep poo
 
 ## The Pathophysiology of the Crash
 
-The mechanism of OTS is not a lack of motivation; it is a systemic inflammatory response and neuroendocrine disruption. When training volume exceeds the capacity for recovery, the Hypothalamic-Pituitary-Adrenal (HPA) axis malfunctions [3].
+The mechanism of OTS is not a lack of motivation; it is a systemic inflammatory response and neuroendocrine disruption. When training volume exceeds the capacity for recovery, the Hypothalamic-Pituitary-Adrenal (HPA) axis malfunctions.
 
-Research indicates that excessive training triggers a cytokine storm, specifically elevating Tumor Necrosis Factor-alpha (TNF-alpha), Interleukin-6 (IL-6), and Interleukin-1β [4]. These inflammatory markers suppress the immune system and impair glucose metabolism. The body enters a catabolic state, breaking down muscle tissue rather than building it. The "addiction" felt by runners like Sarah is actually a dopamine-seeking response to the stress of this physiological chaos, a psychological loop that reinforces the very behavior destroying their performance.
+Research indicates that excessive training triggers a cytokine storm, specifically elevating Tumor Necrosis Factor-alpha (TNF-alpha), Interleukin-6 (IL-6), and Interleukin-1β. These inflammatory markers suppress the immune system and impair glucose metabolism. The body enters a catabolic state, breaking down muscle tissue rather than building it. The "addiction" felt by runners like Sarah is actually a dopamine-seeking response to the stress of this physiological chaos, a psychological loop that reinforces the very behavior destroying their performance.
 
 ## The Contrarian View: Biomechanics Predict Physiology
 
@@ -47,7 +47,7 @@ Stop looking at the calendar. Start looking at the data.
 
 *   **The Rest Threshold:** If your Resting Heart Rate (RHR) is elevated by more than 5% from your baseline, or if you are waking up with a heart rate that is 10+ beats higher than your morning average, you are in Nonfunctional Overreaching. Do not increase volume. Cut it in half.
 *   **Biomechanical Audit:** Record a 30-second video of your running form. Look for the loss of stride length and increased bounce. If you see it, you are fatigued. Stop running.
-*   **Carbohydrate Awareness:** Glycogen depletion forces the body to break down muscle protein for fuel. If you are running on empty, you are accelerating the inflammatory response described by Fiala et al. [4].
+*   **Carbohydrate Awareness:** Glycogen depletion forces the body to break down muscle protein for fuel. If you are running on empty, you are accelerating the inflammatory response described by Fiala et al..
 
 The 10% rule is for hobbyists. Elite physiology requires listening to the nervous system. If the body is broken, the miles are wasted.
 

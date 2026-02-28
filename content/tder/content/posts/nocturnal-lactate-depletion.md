@@ -12,7 +12,7 @@ The endurance community is obsessed with the "easy run." The hobbyist consensus 
 
 ## The Lactate Threshold: The Boundary of Fuel Utilization
 
-To understand the impact of nocturnal running, we must first define the physiological ceiling: the lactate threshold (LT). The LT is the work rate beyond which blood lactate concentration ([La−]b) increases exponentially, making it a superior predictor of performance compared to heart rate [Garmin]. 
+To understand the impact of nocturnal running, we must first define the physiological ceiling: the lactate threshold (LT). The LT is the work rate beyond which blood lactate concentration ([La−]b) increases exponentially, making it a superior predictor of performance compared to heart rate. 
 
 The Ingebrigtsen training model, validated by longitudinal case studies, relies on meticulous recording of heart rate and blood lactate to dial in intensity. Their success suggests that high volume at low intensity is effective, but it requires precise control. When running below this threshold, the body operates in a state of aerobic equilibrium where lactate production is cleared as fast as it enters the bloodstream [Blood Lactate Guide]. However, this "equilibrium" is metabolically expensive. Even at low intensities, the body is consuming glycogen.
 
