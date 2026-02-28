@@ -18,13 +18,13 @@ This is corroborated by Stanford studies on elite athletes. When men’s basketb
 
 ## The Contrarian View: Volume vs. Intensity
 
-Here is where the data contradicts the hobbyist consensus. The paper *Training for intense exercise performance: high‐intensity or high‐volume training?* suggests that for many athletes, optimal performance is achieved with a specific intensity distribution and lower volumes—specifically, runners training 45km/week lowered their training volume to optimize results. This challenges the dogma that more miles equal more fitness.
+Here is where the data contradicts the hobbyist consensus. The paper *Training for intense exercise performance: high‐intensity or high‐volume training?* suggests that for many athletes, optimal performance is achieved with a specific intensity distribution and lower volumes-specifically, runners training 45km/week lowered their training volume to optimize results. This challenges the dogma that more miles equal more fitness.
 
 If you are running 80km/week and sleeping 4.5 hours, you are engaging in a metabolic war you are losing. Chronic sleep restriction elevates cortisol and disrupts hormonal balance, increasing injury risk and suppressing immune function. The solution is not to sleep less while running more; it is to restructure the training stimulus.
 
 High-Intensity Training (HIT) and High-Intensity Interval Training (HIIT) offer a contrarian solution to the sleep-volume trade-off. HIT principles emphasize brief, highly intense workouts with a heavy emphasis on rest and recovery. Unlike long, slow distance (LSD) running, which creates chronic oxidative stress requiring extensive downtime, HIT relies on anaerobic pathways. As noted in the literature on HIIT, this method triggers "extremely high" levels of subject motivation and creates a distinct, recoverable disturbance in homeostasis.
 
-By shifting to High-Intensity Interval Training, you can maintain or even improve performance metrics—such as VO2 peak and lactate threshold—without the cumulative fatigue that necessitates excessive sleep. You are not sacrificing training volume; you are sacrificing *inefficient* volume.
+By shifting to High-Intensity Interval Training, you can maintain or even improve performance metrics-such as VO2 peak and lactate threshold-without the cumulative fatigue that necessitates excessive sleep. You are not sacrificing training volume; you are sacrificing *inefficient* volume.
 
 ## Practical Application: The Recovery Protocol
 
@@ -32,7 +32,7 @@ Optimizing sleep without sacrificing training volume requires a shift in philoso
 
 1.  **Audit Your Volume:** If you are chronically fatigued, reduce your weekly mileage. The *Training for intense exercise performance* data indicates that 45km/week can be optimal for some. If you are tired, you are overreaching, not training.
 2.  **Implement HIT Principles:** Replace one long, slow run per week with a High-Intensity Interval Training session. Short, explosive bursts (20-45 seconds) followed by rest periods utilize different energy systems and reduce the systemic inflammation associated with chronic low-intensity running.
-3.  **Circadian Anchoring:** Sleep quality is as important as quantity. The "Sleep and Recovery for Runners" guide advises creating a recovery environment—dark, cool, and quiet—and limiting blue light exposure 60-90 minutes before bed. This is non-negotiable for elite performance.
+3.  **Circadian Anchoring:** Sleep quality is as important as quantity. The "Sleep and Recovery for Runners" guide advises creating a recovery environment-dark, cool, and quiet-and limiting blue light exposure 60-90 minutes before bed. This is non-negotiable for elite performance.
 
 ## Takeaway
 
