@@ -2,7 +2,7 @@
 title: "Is Your Recovery Run Sabotaging Your Hard Work? The 65-Minute Threshold"
 description: "An analysis of how easy run duration impacts high-intensity performance recovery and the physiological limits of low-intensity training."
 keywords: "easy run duration, recovery running, marathon training, VO2max, training load, cortisol, fatigue management"
-date: 2026-02-28
+date: 2026-02-12
 tags: [Running, Physiology, Training Science]
 ---
 
