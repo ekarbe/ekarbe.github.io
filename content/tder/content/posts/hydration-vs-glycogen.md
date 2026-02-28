@@ -24,7 +24,7 @@ A systematic review confirms that exercising in a hot environment (41 °C) signi
 
 The standard advice is to drink until you are not thirsty and to carry a hydration pack. However, this ignores the metabolic cost of carrying mass. A study on trail runners demonstrated that carrying a fully loaded pack (3.4kg) increased the rating of perceived exertion (RPE) and cardiovascular strain, even when heart rate remained statistically similar. Carrying 4-5% of your body weight in water and gear adds metabolic load that consumes the very glycogen you are trying to spare.
 
-Furthermore, excessive fluid intake can lead to hyperhydration, diluting electrolytes and potentially causing hyponatremia. The body prioritizes plasma volume restoration over intramuscular hydration during exercise. If you over-hydrate, you dilute the sodium necessary for proper muscle contraction and nerve signaling, leading to early fatigue and cramping—not because of a lack of fuel, but because of a lack of electrolyte balance.
+Furthermore, excessive fluid intake can lead to hyperhydration, diluting electrolytes and potentially causing hyponatremia. The body prioritizes plasma volume restoration over intramuscular hydration during exercise. If you over-hydrate, you dilute the sodium necessary for proper muscle contraction and nerve signaling, leading to early fatigue and cramping-not because of a lack of fuel, but because of a lack of electrolyte balance.
 
 ## The Optimal Strategy: Fuel First, Hydrate Second
 

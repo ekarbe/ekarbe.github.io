@@ -10,11 +10,11 @@ tags: [Running, Science, Training]
 
 The prevailing dogma in endurance coaching is the "Live High, Train Low" (LHTL) protocol. You ascend to 2,400m, sleep there to boost erythropoietin (EPO) and red blood cell mass, and descend to sea level to hammer threshold intervals. The logic is sound: maximize oxygen delivery while maintaining high-intensity training stimulus.
 
-However, this approach ignores the specific metabolic adaptations required for the marathon. If you are chasing a personal best in a sea-level race, the LHTL model is flawed. It treats altitude as a simple oxygen delivery problem, ignoring the profound impact of chronic hypoxia on lactate utilization and mitochondrial efficiency. The data suggests that for the specific goal of sustaining a high lactate threshold, staying high—specifically during the long run—is the superior strategy.
+However, this approach ignores the specific metabolic adaptations required for the marathon. If you are chasing a personal best in a sea-level race, the LHTL model is flawed. It treats altitude as a simple oxygen delivery problem, ignoring the profound impact of chronic hypoxia on lactate utilization and mitochondrial efficiency. The data suggests that for the specific goal of sustaining a high lactate threshold, staying high-specifically during the long run-is the superior strategy.
 
 ## The Metabolic Mechanism: The Lactate Paradox Reversed
 
-Most runners fear altitude because they believe it increases lactate accumulation. This is the acute response. However, the "lactate paradox"—a phenomenon where chronic exposure to hypoxia actually *reduces* blood lactate at sub-maximal intensities compared to acute exposure—has been misunderstood for decades.
+Most runners fear altitude because they believe it increases lactate accumulation. This is the acute response. However, the "lactate paradox"-a phenomenon where chronic exposure to hypoxia actually *reduces* blood lactate at sub-maximal intensities compared to acute exposure-has been misunderstood for decades.
 
 A study on lowlanders acclimatized to 5,260m for nine weeks revealed that while arterial lactate concentrations were similar to acute hypoxia, the *net lactate release from the active leg was significantly higher* during chronic exposure. This implies an enhanced capacity for lactate utilization and clearance, not just production. The body adapts to the chronic stress by becoming more efficient at clearing the very fuel that causes fatigue.
 

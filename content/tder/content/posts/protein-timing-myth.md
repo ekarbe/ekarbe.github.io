@@ -14,7 +14,7 @@ The premise relies on the assumption that post-exercise muscle is uniquely prime
 
 ### The Mechanism: Damage, Not Just Fuel
 
-First, we must define the stimulus. Unlike resistance training, which elicits a massive, acute spike in Muscle Protein Synthesis (MPS), endurance running induces a different metabolic response. The primary driver of muscle damage in running is eccentric loading—specifically the impact forces of foot strike and the lengthening of the quadriceps upon landing.
+First, we must define the stimulus. Unlike resistance training, which elicits a massive, acute spike in Muscle Protein Synthesis (MPS), endurance running induces a different metabolic response. The primary driver of muscle damage in running is eccentric loading-specifically the impact forces of foot strike and the lengthening of the quadriceps upon landing.
 
 As noted in the literature on Delayed Onset Muscle Soreness (DOMS), this damage manifests as microscopic tears and inflammation, peaking 24 to 72 hours post-exercise. While this damage is necessary for adaptation, it does not trigger the same immediate, high-intensity MPS response seen in weightlifting. Therefore, the urgency to flood the bloodstream with amino acids immediately after a 10k is overstated.
 
@@ -30,7 +30,7 @@ This creates a specific distribution problem. If you consume a massive dose imme
 
 The 'anabolic window' is frequently cited as a 30-minute window. This is a myth derived from early resistance training studies. The reality, supported by contemporary research, is that the 'window' spans several hours.
 
-Furthermore, the co-ingestion of protein with carbohydrates during endurance exercise provides no compelling evidence for facilitating glycogen resynthesis if carbohydrate recommendations are met. The body prioritizes carbohydrate storage during recovery; protein serves a different purpose here—repairing the micro-tears caused by eccentric running—rather than fueling the immediate energy deficit.
+Furthermore, the co-ingestion of protein with carbohydrates during endurance exercise provides no compelling evidence for facilitating glycogen resynthesis if carbohydrate recommendations are met. The body prioritizes carbohydrate storage during recovery; protein serves a different purpose here-repairing the micro-tears caused by eccentric running-rather than fueling the immediate energy deficit.
 
 The contrarian view is this: obsessing over a 15-minute window after a run is a distraction from the bigger picture. If you finish a run at 7:00 PM and eat at 7:30 PM, you have not missed the window. You have simply delayed the start of your daily distribution. The critical factor is hitting that 1.8 g/kg daily ceiling, spread across four meals, rather than squeezing it all into one post-run shake.
 

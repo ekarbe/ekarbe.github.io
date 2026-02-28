@@ -8,7 +8,7 @@ tags: [Running, Science, Training]
 
 # Is the 'Easy' Run Actually the Hardest Adaptation to Trigger?
 
-Most recreational runners view the easy run as a recovery activity—a necessary evil between hard workouts. This is a fundamental misunderstanding of the physiology. The data suggests that the "easy" run is not merely a recovery tool, but the primary driver of mitochondrial biogenesis. If you are running too fast, you are actively sabotaging the very adaptations you are trying to achieve.
+Most recreational runners view the easy run as a recovery activity-a necessary evil between hard workouts. This is a fundamental misunderstanding of the physiology. The data suggests that the "easy" run is not merely a recovery tool, but the primary driver of mitochondrial biogenesis. If you are running too fast, you are actively sabotaging the very adaptations you are trying to achieve.
 
 ## The Biological Mechanism: Why Zone 2 Wins
 
@@ -20,7 +20,7 @@ When you run at this intensity, you are forcing the muscle fibers to rely almost
 
 ## The Contrarian View: The Efficiency Trap
 
-The prevailing wisdom in running culture is that effort equals progress. We see athletes chasing "feel-good" paces that are actually 80-90% of their VO2 max. This is the "gray zone"—a metabolic dead zone where you feel like you are working hard, but you are not stimulating the specific adaptations needed for endurance performance.
+The prevailing wisdom in running culture is that effort equals progress. We see athletes chasing "feel-good" paces that are actually 80-90% of their VO2 max. This is the "gray zone"-a metabolic dead zone where you feel like you are working hard, but you are not stimulating the specific adaptations needed for endurance performance.
 
 Consider the data from the comparison between walking and running for weight loss and metabolic health. While running is more efficient in terms of energy expenditure per minute, the *sustainability* of the effort is what dictates the long-term metabolic adaptation. A runner who pushes their easy run pace to the point of discomfort is effectively burning the candle at both ends. They are generating the fatigue that leads to the risk for the so-called overtraining syndrome, while simultaneously failing to trigger the mitochondrial signaling required for the next adaptation.
 

@@ -8,7 +8,7 @@ tags: [Running, Science, Training]
 
 # Is Lactate a Metabolic Dead-End or the Key to Lactate Clearance?
 
-Stop calling lactate a waste product. It is the primary fuel source for your heart, brain, and slow-twitch fibers during high-intensity efforts. The prevailing narrative among the running hobbyist class—that lactate accumulation causes fatigue—is a physiological misconception. The reality is that **fatigue is caused by the inability to clear lactate fast enough.**
+Stop calling lactate a waste product. It is the primary fuel source for your heart, brain, and slow-twitch fibers during high-intensity efforts. The prevailing narrative among the running hobbyist class-that lactate accumulation causes fatigue-is a physiological misconception. The reality is that **fatigue is caused by the inability to clear lactate fast enough.**
 
 The solution isn't to run slower to avoid producing it; it is to build the machinery required to oxidize it. This machinery is mitochondrial density. Without an increase in the number and volume of these cellular power plants, you are simply delaying the inevitable accumulation of metabolic byproducts.
 
@@ -22,9 +22,9 @@ Therefore, mitochondrial density is the rate-limiting factor for lactate clearan
 
 ## The Controversy: Volume vs. Intensity
 
-The endurance community is obsessed with Zone 2 training—the "long, slow, easy" miles. While Zone 2 is essential for fat oxidation and establishing a base, it is a poor stimulus for mitochondrial biogenesis compared to high-intensity stress.
+The endurance community is obsessed with Zone 2 training-the "long, slow, easy" miles. While Zone 2 is essential for fat oxidation and establishing a base, it is a poor stimulus for mitochondrial biogenesis compared to high-intensity stress.
 
-Traditional endurance training (MICT) builds mitochondrial content, but it requires significant time investment. High-Intensity Interval Training (HIIT) and Sprint Interval Training (SIT) trigger the same physiological adaptations—specifically the upregulation of PGC-1α, the master regulator of mitochondrial biogenesis—while using far less total exercise volume.
+Traditional endurance training (MICT) builds mitochondrial content, but it requires significant time investment. High-Intensity Interval Training (HIIT) and Sprint Interval Training (SIT) trigger the same physiological adaptations-specifically the upregulation of PGC-1α, the master regulator of mitochondrial biogenesis-while using far less total exercise volume.
 
 A systematic review and meta-regression confirms that when normalized per hour of exercise, Sprint Interval Training is approximately **2–3 times more efficient** than moderate-intensity continuous training in boosting mitochondrial content. This suggests that for the goal of enhancing lactate clearance during high-intensity intervals, volume is a poor proxy for intensity. You cannot out-train a weak mitochondrial network with extra miles of Zone 2 running; you must stress the system to force the cellular remodeling required for clearance.
 
