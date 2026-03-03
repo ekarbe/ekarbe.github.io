@@ -37,3 +37,6 @@ If you run easy on depleted glycogen, you are signaling a metabolic stress that 
 Your easy run is not free. It is a metabolic stressor that requires specific nutritional restitution to prevent performance decay.
 
 *   **Action Item:** Immediately after your next easy run, consume a meal containing 20-30g of high-quality protein. Do not wait for a "carb window." Prioritize protein intake at every meal today to maximize MPS and ensure your glycogen stores are preserved for the quality session tomorrow.
+
+---
+Eike

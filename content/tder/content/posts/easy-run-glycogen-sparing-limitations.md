@@ -12,7 +12,7 @@ The dogma of the "easy run" suggests that low-intensity running is the primary d
 
 ## The Metabolic Reality: Walking vs. Running
 
-The fundamental error lies in assuming that running at a conversational pace automatically triggers glycogen sparing. The data on fuel utilization is unequivocal: walking at moderate intensities preferentially utilizes fatty acids, whereas running-regardless of the pace-relies more heavily on glycogen [Source: Walking vs. Running]. This distinction is not trivial; it is the difference between training the oxidative phenotype and reinforcing carbohydrate dependency.
+The fundamental error lies in assuming that running at a conversational pace automatically triggers glycogen sparing. The data on fuel utilization is unequivocal: walking at moderate intensities preferentially utilizes fatty acids, whereas running-regardless of the pace-relies more heavily on glycogen. This distinction is not trivial; it is the difference between training the oxidative phenotype and reinforcing carbohydrate dependency.
 
 When you run easy, you are not as metabolically efficient as walking. You are burning a significant portion of your limited glycogen stores. While the total calorie expenditure is higher than walking, the *fuel source* is the wrong one for the stimulus you are trying to create. Glycogen is not merely a fuel store; it is a potent regulator of molecular cell signaling pathways that regulate the oxidative phenotype.
 
