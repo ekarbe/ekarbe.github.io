@@ -11,16 +11,6 @@ theme = "PaperMod"
   strava = "https://www.strava.com/athletes/58442765"
   ShowToc = true
 
-[permalinks]
-  tder = "/tder/:slug/"
-
-[menu]
-  [[menu.main]]
-    identifier = "TDER"
-    name = "Blog"
-    url = "/tder/"
-    weight = 10
-
 [services]
   [services.googleAnalytics]
     ID = "G-G2BLVCXHSD"
