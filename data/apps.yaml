@@ -33,3 +33,16 @@
     - "Strength"
   color: "from-red-500/20 to-orange-500/20"
   icon_color: "text-red-400"
+
+- title: "RaceSafe"
+  slug: "race-safe"
+  description: "An offline-first, client-side safety planner for trail and ultra-runners to compute elevation-adjusted arrival windows and coordinate checkpoints."
+  url: "/race-safe/"
+  icon: "icons/race-safe.svg"
+  tags:
+    - "Running"
+    - "Safety"
+    - "Offline"
+    - "GPX"
+  color: "from-zinc-500/20 to-slate-500/20"
+  icon_color: "text-zinc-400"

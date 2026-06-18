@@ -11,3 +11,13 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# Planning & specification files
+AGENT.md
+BRAINSTORM.md
+ENHANCEMENTS.md
+FEATURES.md
+ISSUES.md
+CODESTYLE.md
+PLAN.md
+PLAND.md
