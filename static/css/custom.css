@@ -145,7 +145,7 @@ body {
 }
 
 /* About Card Placements */
-.card-main { grid-column: span 2; }
+.card-main { grid-column: span 3; }
 .card-sap { grid-column: span 3; }
 .card-hobby { grid-column: span 2; }
 .card-athlete { grid-column: span 1; }
