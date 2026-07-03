@@ -1,7 +1,9 @@
 - title: "Gel Calculator"
   slug: "gel-calculator"
-  description: "A web application for endurance athletes to calculate personalized energy gel or drink mix recipes."
+  description: "A precision fueling engine for endurance athletes. Calculates highly personalized energy gel and hydration mix recipes based on physiological metrics and race parameters."
   url: "/gel-calculator/"
+  source_url: "https://github.com/ekarbe/gel-calculator"
+  status: "completed"
   icon: "icons/gel-calculator.svg" 
   tags: 
     - "Endurance"
@@ -12,8 +14,10 @@
 
 - title: "Weight Pace Calculator"
   slug: "weight-pace-calculator"
-  description: "A web application to estimate potential running pace improvements based on projected weight loss."
+  description: "Advanced biomechanical calculator that models potential running pace improvements and aerobic efficiency gains resulting from projected body composition changes."
   url: "/weight-pace-calculator/"
+  source_url: "https://github.com/ekarbe/weight-pace-calculator"
+  status: "completed"
   icon: "icons/weight-pace-calculator.svg"
   tags: 
     - "Running"
@@ -24,8 +28,10 @@
 
 - title: "Prevent Pain"
   slug: "prevent-pain"
-  description: "WIP web application for interactive pain locating and exercise recommendations."
+  description: "Interactive rehab assistant that cross-references user-reported pain locations with biomechanical data to recommend targeted strengthening and mobility protocols."
   url: "/prevent-pain/"
+  source_url: "https://github.com/ekarbe/prevent-pain"
+  status: "wip"
   icon: "icons/prevent-pain.svg"
   tags:
     - "Running"
@@ -36,8 +42,10 @@
 
 - title: "RaceSafe"
   slug: "race-safe"
-  description: "An offline-first, client-side safety planner for trail and ultra-runners to compute elevation-adjusted arrival windows and coordinate checkpoints."
+  description: "Offline-first safety logistics platform for ultra-runners. Computes elevation-adjusted arrival windows and coordinates critical checkpoint data without cellular dependency."
   url: "/race-safe/"
+  source_url: "https://github.com/ekarbe/race-safe"
+  status: "completed"
   icon: "icons/race-safe.svg"
   tags:
     - "Running"
@@ -45,4 +53,37 @@
     - "Offline"
     - "GPX"
   color: "from-apple-amber/20 to-apple-amber/10"
+  icon_color: "text-apple-amber"
+
+- title: "AI based Gel Calculation"
+  slug: "ai-gel-calculator"
+  description: "Next-gen fueling engine leveraging a localized, hardware-agnostic AI model trained to dynamically optimize carbohydrate ratios and hydration strategies."
+  status: "wip"
+  tags:
+    - "AI"
+    - "Endurance"
+    - "Nutrition"
+  color: "from-apple-blue/20 to-apple-blue/10"
+  icon_color: "text-apple-blue"
+
+- title: "Cortex"
+  slug: "cortex"
+  description: "A hyper-fast, minimalist IPTV client enhanced by bring-your-own-model AI integrations for intelligent content curation and viewing analytics."
+  status: "wip"
+  tags:
+    - "IPTV"
+    - "AI"
+    - "Video"
+  color: "from-apple-purple/20 to-apple-purple/10"
+  icon_color: "text-purple-400"
+
+- title: "MinTALK.js"
+  slug: "mintalk-js"
+  description: "An ultra-lightweight JavaScript package providing seamless, browser-native conversational AI capabilities with minimal overhead."
+  status: "wip"
+  tags:
+    - "JavaScript"
+    - "AI"
+    - "Voice"
+  color: "from-apple-amber/20 to-apple-red/10"
   icon_color: "text-apple-amber"

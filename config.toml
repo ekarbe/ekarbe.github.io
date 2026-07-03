@@ -7,7 +7,8 @@ theme = "PaperMod"
   author = "Eike Christian Karbe"
   description = "I build specialized web applications focusing on performance, endurance sports, and data analysis."
   github = "https://github.com/ekarbe"
-  email = "eike@eikekarbe.com"
+  linkedin = "https://www.linkedin.com/in/eike-karbe"
+  email = "eikekarbe00+web@gmail.com"
   strava = "https://www.strava.com/athletes/58442765"
   ShowToc = true
 
