@@ -9,7 +9,6 @@
     - "Endurance"
     - "Calculator"
     - "Nutrition"
-  color: "from-apple-blue/20 to-apple-blue/10"
   icon_color: "text-apple-blue"
 
 - title: "Weight Pace Calculator"
@@ -23,7 +22,6 @@
     - "Running"
     - "Performance"
     - "Analytics"
-  color: "from-apple-green/20 to-apple-green/10"
   icon_color: "text-apple-green"
 
 - title: "Prevent Pain"
@@ -37,7 +35,6 @@
     - "Running"
     - "Rehab"
     - "Strength"
-  color: "from-apple-red/20 to-apple-red/10"
   icon_color: "text-apple-red"
 
 - title: "RaceSafe"
@@ -52,7 +49,6 @@
     - "Safety"
     - "Offline"
     - "GPX"
-  color: "from-apple-amber/20 to-apple-amber/10"
   icon_color: "text-apple-amber"
 
 - title: "AI based Gel Calculation"
@@ -63,7 +59,6 @@
     - "AI"
     - "Endurance"
     - "Nutrition"
-  color: "from-apple-blue/20 to-apple-blue/10"
   icon_color: "text-apple-blue"
 
 - title: "Cortex"
@@ -74,7 +69,6 @@
     - "IPTV"
     - "AI"
     - "Video"
-  color: "from-apple-purple/20 to-apple-purple/10"
   icon_color: "text-purple-400"
 
 - title: "MinTALK.js"
@@ -85,5 +79,4 @@
     - "JavaScript"
     - "AI"
     - "Voice"
-  color: "from-apple-amber/20 to-apple-red/10"
   icon_color: "text-apple-amber"

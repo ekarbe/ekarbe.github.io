@@ -11,7 +11,3 @@ theme = "PaperMod"
   email = "eikekarbe00+web@gmail.com"
   strava = "https://www.strava.com/athletes/58442765"
   ShowToc = true
-
-[services]
-  [services.googleAnalytics]
-    ID = "G-G2BLVCXHSD"
