@@ -19,7 +19,7 @@
                 />{{ end }}
   </url>
   {{ end }}
-  {{ range .Site.Data.apps }}
+  {{ range hugo.Data.apps }}
   <url>
     <loc>{{ .url | absURL }}</loc>
   </url>
