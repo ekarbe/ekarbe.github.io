@@ -1,3 +1,16 @@
+- title: "Epi"
+  slug: "epi"
+  description: "A local-first, privacy-by-design desktop application that records meetings, transcribes them natively, and generates intelligent summaries using local LLMs."
+  url: "/epi/"
+  source_url: "https://github.com/ekarbe/Epi"
+  status: "completed"
+  icon: "icons/epi.svg"
+  tags:
+    - "AI"
+    - "Voice"
+    - "Productivity"
+  icon_color: "text-gray-800"
+
 - title: "Gel Calculator"
   slug: "gel-calculator"
   description: "A precision fueling engine for endurance athletes. Calculates highly personalized energy gel and hydration mix recipes based on physiological metrics and race parameters."
@@ -80,3 +93,4 @@
     - "AI"
     - "Voice"
   icon_color: "text-apple-amber"
+
