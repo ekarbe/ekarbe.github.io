@@ -1,7 +1,7 @@
 - title: "Epi"
   slug: "epi"
   description: "A local-first, privacy-by-design desktop application that records meetings, transcribes them natively, and generates intelligent summaries using local LLMs."
-  url: "/epi/"
+  url: "/Epi/"
   source_url: "https://github.com/ekarbe/Epi"
   status: "completed"
   icon: "icons/epi.svg"
